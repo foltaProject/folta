@@ -1,0 +1,3 @@
+# shells scripts used to train languages used
+
+Will update later...
