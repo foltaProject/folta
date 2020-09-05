@@ -1,4 +1,4 @@
-from langclass import *
+from datacollection.langclass import *
 import random as r
 import math as m
 import sys
