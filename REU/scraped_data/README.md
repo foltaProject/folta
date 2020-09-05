@@ -1,0 +1,3 @@
+# data that was scraped from training
+
+will fill out later...

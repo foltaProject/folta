@@ -1,0 +1,3 @@
+# baseline neural-transducer from SIG-Task0
+
+will update later...
