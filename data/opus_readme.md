@@ -57,7 +57,21 @@ The documentation is sparse, but I'm not sure this part is working properly.
 For me, it tried to query a certain link, but it looks like where the data is stored has changed and no corresponding change has been made to the tool. 
 However, you still get links (whether run in jupyter or terminal) to the proper text, but you have to manually click them, open them, unzip them, etc. 
 It doesn't seem as though there is a straightforward way to stream them into a script or process, yet.
-```
+```python
 # print out the available texts
 opus_reader.printPairs()
+```
+```python
+In[4]: opus_reader.printPairs()
+
+Alignment file /proj/nlpl/data/OPUS/JW300/latest/xml/en-fi.xml.gz not found. The following files are available for downloading:
+ 
+  19 MB https://object.pouta.csc.fi/OPUS-JW300/v1/xml/en-fi.xml.gz
+ 263 MB https://object.pouta.csc.fi/OPUS-JW300/v1/xml/en.zip
+ 208 MB https://object.pouta.csc.fi/OPUS-JW300/v1/xml/fi.zip
+
+ 490 MB Total size
+Downloading 3 file(s) with the total size of 490 MB. Continue? (y/n) >? y
+Unable to retrieve the data.
+No alignment file "/proj/nlpl/data/OPUS/JW300/latest/xml/en-fi.xml.gz" or "./JW300_latest_xml_en-fi.xml.gz" found
 ```
