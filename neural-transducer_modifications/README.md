@@ -1,4 +1,6 @@
-# folta REU project files
+#  Data Augmentation for Morphological Inflection in Extremely Low-Resource Languages
+
+This project was done during the 2020 Summer REU NSF program.
 
 # File Structure
 
@@ -26,7 +28,6 @@
 
 # to-do
 
-- move outlier files into folders
 - possibly link src to github page? (as done in https://github.com/sigmorphon2020/task0-baselines)
 - finish writing out README's for each folder
 - compile dependencies list (shouldnt be more than whats needed for src + pandas)
