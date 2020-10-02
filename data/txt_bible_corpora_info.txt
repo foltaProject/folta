@@ -1,0 +1,3645 @@
+Bible File Name
+ISO		N_Verses	N_Tokens	N_Types
+rus-x-bible-newworld
+rus		31173		744535		43845
+coe-x-bible
+coe		7957		218023		16764
+deu-x-bible-tafelbibel
+deu		26146		723994		25057
+kal-x-bible
+kal		6287		79703		28520
+zho-x-bible-revised
+zho		31157		756766		24733
+ycn-x-bible
+ycn		7958		284227		12078
+vut-x-bible
+vut		7958		240881		11514
+eng-x-bible-world
+eng		7958		209513		6683
+daa-x-bible
+daa		7958		239683		11538
+big-x-bible
+big		7958		272318		10151
+mpp-x-bible
+mpp		4025		98087		9370
+ksf-x-bible
+ksf		7958		254282		10386
+zae-x-bible
+zae		7958		274109		13825
+mos-x-bible-protestant
+mos		7958		227648		9293
+ces-x-bible-kralicka
+ces		31176		728049		45190
+che-x-bible
+che		31173		821889		42836
+byr-x-bible-wagama
+byr		136		3552		1451
+msm-x-bible
+msm		7941		247654		10788
+ncl-x-bible
+ncl		7958		288361		15543
+gym-x-bible
+gym		7958		336671		5481
+ind-x-bible-newworld
+ind		31157		840177		18218
+enm-x-bible-coverdale
+enm		7956		212826		8075
+cub-x-bible
+cub		7955		269988		17911
+tzo-x-bible-newworld
+tzo		7918		232809		11818
+nob-x-bible-1988
+nob		7469		228520		8353
+luo-x-bible
+luo		10470		223222		18699
+fra-x-bible-louissegond
+fra		31173		858981		26158
+mjw-x-bible
+mjw		7957		198416		14402
+aca-x-bible
+aca		4419		103706		11286
+kia-x-bible
+kia		31173		1094861		6768
+deu-x-bible-elberfelder1905
+deu		31172		849966		26420
+mwp-x-bible
+mwp		4395		137861		6029
+kbq-x-bible
+kbq		10534		233357		33531
+pol-x-bible-nowagdansk
+pol		7957		171846		18315
+eri-x-bible
+eri		7958		304336		6861
+qvs-x-bible
+qvs		7956		180788		20373
+ted-x-bible
+ted		7958		424458		4496
+nya-x-bible-loyera
+nya		7918		175000		21611
+deu-x-bible-genfer2011
+deu		7943		255077		12566
+deu-x-bible-elberfelder1871
+deu		31170		848354		26526
+lbk-x-bible
+lbk		9488		273914		16056
+cak-x-bible-southern
+cak		7958		314456		10311
+dgr-x-bible
+dgr		9477		231919		12150
+bdd-x-bible
+bdd		7920		198524		12434
+ibo-x-bible-newworld
+ibo		31157		948059		18544
+lav-x-bible
+lav		7951		162785		16334
+yim-x-bible
+yim		31173		644976		29457
+uvl-x-bible
+uvl		7955		302276		4178
+mhy-x-bible
+mhy		7892		221026		7097
+wob-x-bible
+wob		7958		298945		5442
+awx-x-bible
+awx		1666		39483		6334
+nab-x-bible
+nab		7959		190289		46090
+mam-x-bible-central
+mam		7958		262648		11831
+bus-x-bible
+bus		7955		182489		10194
+aon-x-bible
+aon		7957		320106		14385
+tqb-x-bible
+tqb		31171		1170477		16551
+ken-x-bible
+ken		7954		232605		11051
+abt-x-bible-maprik
+abt		7958		344305		6663
+slk-x-bible-catholic
+slk		7958		164370		16668
+sml-x-bible
+sml		7958		234205		12286
+sba-x-bible
+sba		31111		1046908		16557
+rus-x-bible-modern2011
+rus		7867		186794		18781
+avt-x-bible
+avt		7957		280316		7500
+gub-x-bible
+gub		31173		1170428		16551
+nds-x-bible
+nds		10486		256008		11717
+ghe-x-bible
+ghe		7958		175147		13522
+plt-x-bible-romancatholic
+plt		31454		783147		36401
+kwd-x-bible
+kwd		7957		325627		3823
+cym-x-bible-morgan1804
+cym		31171		857582		29290
+swk-x-bible
+swk		7913		181969		19030
+xtd-x-bible
+xtd		7948		255788		8547
+qxr-x-bible
+qxr		7845		157408		17222
+aui-x-bible
+aui		673		15780		3046
+tke-x-bible
+tke		10699		219582		26607
+pol-x-bible-gdansk
+pol		7958		171985		16682
+zpm-x-bible
+zpm		7953		279780		9571
+chz-x-bible
+chz		7958		239393		6867
+ziw-x-bible
+ziw		7958		168369		18919
+ctu-x-bible-tili
+ctu		7958		299208		7180
+mxb-x-bible
+mxb		7958		319159		4310
+hub-x-bible-2010
+hub		7956		195628		23643
+grc-x-bible-combined2005
+grc		7936		156782		17914
+mee-x-bible
+mee		7941		324425		5787
+dis-x-bible
+dis		7957		231159		6354
+cax-x-bible-1980
+cax		7958		207516		11935
+ese-x-bible
+ese		7957		351772		8152
+lid-x-bible
+lid		9610		381423		4446
+enb-x-bible
+enb		7946		186987		17639
+kqw-x-bible
+kqw		3133		113189		2015
+bkv-x-bible
+bkv		7958		275830		5131
+var-x-bible
+var		7958		247826		31548
+tnk-x-bible
+tnk		7958		267696		8228
+ell-x-bible-karalis2
+ell		7776		208537		14423
+dug-x-bible
+dug		7941		209579		19093
+krj-x-bible
+krj		7958		250364		10129
+deu-x-bible-konkordant
+deu		7949		253608		12328
+kyz-x-bible
+kyz		7950		387824		15455
+njm-x-bible
+njm		7684		180767		11892
+mzl-x-bible
+mzl		7715		237005		20640
+cha-x-bible-1908
+cha		7312		157693		12033
+mua-x-bible
+mua		7957		242904		3046
+acr-x-bible-reformed
+acr		7958		273993		8898
+hbo-x-bible-aleppo
+o		23112		347534		43010
+cni-x-bible
+cni		7958		171108		27210
+lai-x-bible
+lai		7941		185027		17232
+sue-x-bible
+sue		7958		246499		7975
+eng-x-bible-newcentury
+eng		7916		220220		4893
+nnp-x-bible
+nnp		7957		203953		11547
+ita-x-bible-nuovariveduta
+ita		7958		192630		12873
+tik-x-bible
+tik		7958		303375		5556
+gkn-x-bible
+gkn		7958		297792		7283
+kto-x-bible
+kto		7949		326646		8653
+ach-x-bible
+ach		7957		207808		10046
+cuk-x-bible
+cuk		7958		179334		32371
+kpr-x-bible
+kpr		7951		314818		8209
+fil-x-bible-2005
+fil		7773		205135		10917
+grt-x-bible
+grt		7948		166027		13813
+agu-x-bible
+agu		7958		293180		9706
+ton-x-bible
+ton		31173		1111118		7992
+mxt-x-bible
+mxt		7958		303135		4900
+kmu-x-bible
+kmu		7943		226965		24198
+nhu-x-bible
+nhu		7954		301829		5359
+fin-x-bible-1766
+fin		31173		689540		44227
+tha-x-bible-standard2011
+tha		31160		1023898		10153
+zia-x-bible
+zia		7958		259121		7372
+upv-x-bible
+upv		7891		261751		9544
+ayo-x-bible
+ayo		7958		299373		12871
+adh-x-bible
+adh		7958		195105		9474
+nep-x-bible-revised
+nep		7958		164776		17222
+dah-x-bible
+dah		7942		306379		6664
+xsr-x-bible
+xsr		7956		208448		6693
+hus-x-bible-veracruz
+hus		7958		266553		6988
+sig-x-bible
+sig		7958		310783		3839
+nde-x-bible
+nde		7746		127887		29419
+tui-x-bible
+tui		31110		1154566		11030
+ghs-x-bible
+ghs		7954		198081		11586
+mbs-x-bible
+mbs		9491		310185		7335
+vie-x-bible-banphothong
+vie		7837		235455		3873
+ake-x-bible
+ake		7954		227153		9705
+nou-x-bible
+nou		7955		282197		5203
+eus-x-bible-Hautin1571
+eus		7958		159507		18385
+mic-x-bible
+mic		7958		198084		23947
+opm-x-bible
+opm		7954		338235		11935
+nld-x-bible-statenvertaling
+nld		31173		915487		20093
+mzz-x-bible
+mzz		673		14911		2687
+pao-x-bible
+pao		7958		200413		13733
+afr-x-bible-lewende
+afr		7931		232532		9755
+zho-x-bible-shen
+zho		31161		741202		24693
+cwe-x-bible
+cwe		7955		172207		17960
+car-x-bible
+car		7942		193404		12728
+mqj-x-bible
+mqj		7825		185480		14043
+tam-x-bible-easy
+tam		31173		689713		86513
+nak-x-bible
+nak		7958		373060		5167
+pse-x-bible
+pse		7930		193978		6786
+emi-x-bible
+emi		4359		129782		6185
+sus-x-bible
+sus		7947		240884		4663
+est-x-bible-newworld2009
+est		7942		182204		16551
+ium-x-bible-lao
+ium		7653		247205		2555
+nsa-x-bible
+nsa		7957		162068		12395
+gam-x-bible
+gam		7943		277808		3628
+pes-x-bible-2007
+pes		7863		197494		10289
+lbb-x-bible
+lbb		678		22006		1289
+ood-x-bible
+ood		7955		275582		7021
+fue-x-bible
+fue		4668		108961		9363
+kck-x-bible
+kck		10483		196603		23957
+mop-x-bible
+mop		7958		346135		8894
+nif-x-bible
+nif		3768		104954		8535
+whk-x-bible
+whk		7902		268936		4737
+hbo-x-bible-leningradunicode
+hbo		23214		383932		53623
+syc-x-bible
+syc		7957		117694		16455
+pib-x-bible
+pib		7958		147635		24383
+tem-x-bible
+tem		7958		211134		8747
+amh-x-bible-newworld
+amh		7942		141763		25651
+qvz-x-bible
+qvz		7956		181436		19338
+mrw-x-bible
+mrw		7943		249431		11658
+tsz-x-bible
+tsz		7955		159422		21469
+zty-x-bible
+zty		7958		256884		10573
+quh-x-bible-chumacharazani
+quh		7838		170125		27321
+cut-x-bible
+cut		7957		279599		3756
+alz-x-bible
+alz		7958		188333		10476
+seh-x-bible
+seh		1962		45805		5889
+pls-x-bible
+pls		7958		269611		7865
+maq-x-bible
+maq		7958		317469		6243
+mwf-x-bible
+mwf		344		14036		1896
+hrv-x-bible-complete
+hrv		35595		781962		55409
+xtm-x-bible
+xtm		7958		371421		3801
+bea-x-bible
+bea		678		13140		3760
+lit-x-bible-ecumenical
+lit		31150		646052		55760
+pon-x-bible
+pon		33110		883233		21581
+crt-x-bible
+crt		7735		259179		18540
+tca-x-bible
+tca		7956		288264		16610
+mbl-x-bible
+mbl		7957		268641		5097
+kaz-x-bible
+kaz		31067		712213		57995
+ndz-x-bible
+ndz		7956		380327		2796
+guk-x-bible
+guk		7958		164592		17405
+hun-x-bible-karoli
+hun		31182		731804		66559
+isd-x-bible
+isd		7958		271232		10008
+pri-x-bible
+i		7023		288012		4516
+zas-x-bible
+zas		7958		213635		9745
+sme-x-bible
+sme		7948		163846		14541
+waj-x-bible
+waj		7954		245685		12718
+ksp-x-bible
+ksp		4853		148737		5215
+mfq-x-bible
+mfq		7956		264188		5497
+prs-x-bible-goodnews
+prs		7958		199767		10311
+bba-x-bible
+bba		31171		898400		14806
+xsm-x-bible
+xsm		7958		322481		4156
+deu-x-bible-erben
+deu		7957		203253		11153
+ben-x-bible-easy
+ben		7942		200661		11716
+ian-x-bible
+ian		7951		249028		10256
+hmo-x-bible
+hmo		31016		1131604		5563
+kek-x-bible-2005
+kek		31159		853596		28210
+gbo-x-bible
+gbo		7958		296835		6765
+lww-x-bible
+lww		7958		395667		7775
+zom-x-bible
+zom		31071		862146		27458
+ljp-x-bible
+ljp		7958		212314		8167
+shk-x-bible
+shk		7955		212963		9006
+bzh-x-bible
+bzh		7958		271163		6824
+wrs-x-bible
+wrs		9610		299182		24764
+aji-x-bible
+aji		7958		264591		3713
+tte-x-bible
+tte		7952		212503		11782
+muh-x-bible
+muh		7953		448551		2502
+vie-x-bible-1926compounds
+vie		31159		899955		11667
+tha-x-bible-easy
+tha		7941		266378		4458
+pwg-x-bible
+pwg		7941		224960		9205
+eng-x-bible-newworld1984
+eng		31157		1005792		16377
+nso-x-bible-newworld
+nso		31157		1032238		19590
+slv-x-bible
+slv		7571		171854		16509
+viv-x-bible
+viv		7956		231642		16153
+krc-x-bible
+krc		7958		168166		17782
+myx-x-bible
+myx		7958		197766		19612
+niy-x-bible
+niy		7958		293091		11689
+txu-x-bible
+txu		7958		409385		10433
+apn-x-bible
+apn		7952		469317		4669
+lmp-x-bible
+lmp		7958		288927		3899
+qve-x-bible
+qve		7958		211644		28159
+ter-x-bible
+ter		7958		225582		18469
+bre-x-bible
+bre		3776		97698		5548
+izz-x-bible
+izz		7958		262023		14569
+cfm-x-bible
+cfm		30583		960545		16750
+heb-x-bible
+heb		7498		152694		21573
+apt-x-bible
+apt		7952		191853		11497
+myb-x-bible
+myb		7915		218835		9059
+sda-x-bible
+sda		7958		178870		16208
+soq-x-bible
+soq		10864		319592		19462
+twi-x-bible-newworld
+twi		31135		808234		21848
+hae-x-bible
+hae		7958		197918		17286
+gah-x-bible
+gah		7942		232381		15491
+bdh-x-bible
+bdh		7958		308223		5515
+yal-x-bible
+yal		7956		239811		5789
+npy-x-bible
+npy		7958		227421		11906
+box-x-bible
+box		7712		291727		3772
+quh-x-bible-1976
+quh		7958		158743		27846
+ell-x-bible-karalis
+ell		7576		195032		13373
+kkc-x-bible
+kkc		5339		181565		5478
+ewe-x-bible-newworld
+ewe		7942		233284		9672
+zul-x-bible-newworld
+zul		31157		613007		84431
+mur-x-bible
+mur		7949		241132		10154
+bch-x-bible
+bch		10704		367086		5172
+mlh-x-bible
+lh		7957		260223		13759
+leg-x-bible
+leg		7958		203781		12234
+gyr-x-bible-2002
+gyr		7933		205877		9751
+sll-x-bible
+sll		7953		301278		6616
+ikw-x-bible
+ikw		7958		208133		5409
+qub-x-bible
+qub		31173		593030		76746
+nan-x-bible
+nan		7944		201228		7143
+hto-x-bible
+hto		7958		222882		19958
+ann-x-bible
+ann		7956		274403		9433
+pot-x-bible
+pot		2078		39645		11082
+rwo-x-bible-karo
+rwo		7958		325716		9972
+bel-x-bible-bokun
+bel		7958		171496		15288
+mta-x-bible
+mta		7958		295697		6493
+guq-x-bible
+guq		7958		216410		7962
+thk-x-bible
+thk		7956		178901		20072
+fra-x-bible-despeuples
+fra		35505		947848		30491
+mif-x-bible
+mif		7956		334314		4830
+nop-x-bible
+nop		12800		303758		20758
+zai-x-bible
+zai		7958		222431		5890
+eng-x-bible-newinternational
+eng		7713		200326		7103
+glk-x-bible
+glk		879		20025		2285
+wap-x-bible
+wap		7713		220925		15040
+mfk-x-bible
+mfk		7957		289875		6402
+lif-x-bible-2009
+lif		7728		159774		20540
+arz-x-bible
+arz		31174		528641		74274
+eng-x-bible-newreaders
+eng		7926		230175		4946
+ckt-x-bible
+ckt		1151		21526		5731
+ind-x-bible-kabarbaik
+ind		7958		208396		8223
+kir-x-bible-newworld
+r		31173		655879		47799
+bjv-x-bible
+bjv		7956		290647		4685
+wbm-x-bible
+wbm		31022		1130267		7381
+kpw-x-bible
+kpw		7956		336150		4268
+gya-x-bible
+gya		35699		1074881		19359
+mxq-x-bible
+mxq		7957		200471		18171
+mnf-x-bible
+mnf		7905		271522		5520
+bwq-x-bible
+bwq		7958		242800		4339
+heb-x-bible-newworld
+heb		7942		147060		20683
+ktj-x-bible
+ktj		7958		436231		4251
+mak-x-bible
+mak		7942		208389		16617
+gvl-x-bible
+gvl		7958		291987		6024
+gaw-x-bible
+gaw		7958		290221		8768
+nma-x-bible
+nma		7957		205768		11384
+ory-x-bible
+ory		7946		207379		12761
+cak-x-bible-chimaltenango
+cak		7958		278577		11098
+esi-x-bible
+esi		7957		121496		37843
+mvp-x-bible
+mvp		7958		202239		14668
+kaa-x-bible-latin
+kaa		24021		517830		42169
+heg-x-bible
+heg		9491		411592		4711
+taj-x-bible
+taj		7958		249594		7600
+gej-x-bible
+gej		7958		255514		7429
+sri-x-bible
+sri		7957		230232		15197
+cbu-x-bible
+cbu		7947		240938		26151
+wuv-x-bible
+wuv		7943		208189		8040
+xla-x-bible
+xla		10169		314727		12833
+tew-x-bible
+tew		4998		120721		17775
+nbl-x-bible
+nbl		7958		130926		29945
+wca-x-bible
+wca		7958		490223		8570
+bcw-x-bible
+bcw		7957		355141		8789
+nld-x-bible-1951
+nld		31173		859321		22596
+udu-x-bible
+udu		7958		301658		7945
+lex-x-bible
+lex		9790		343530		16151
+urb-x-bible
+urb		7958		427519		3673
+naq-x-bible
+naq		7958		201484		12352
+bhg-x-bible
+bhg		2836		91278		4342
+ceb-x-bible-popular
+ceb		7958		211390		10216
+fra-x-bible-zadockahn
+fra		23202		651356		31309
+ben-x-bible-common
+ben		31162		764940		20672
+jic-x-bible
+jic		7922		340742		4670
+ces-x-bible-ekumenicky
+ces		31164		689613		51015
+iou-x-bible
+iou		13196		368830		13709
+giz-x-bible
+giz		35376		1169292		19561
+blz-x-bible
+blz		7958		225025		9853
+swe-x-bible-folkbibeln1998
+swe		31157		796443		23762
+zav-x-bible
+zav		7958		247734		15064
+bts-x-bible
+bts		7958		201905		9980
+dar-x-bible
+dar		2220		41832		9773
+vie-x-bible-2002
+vie		31172		938182		9370
+are-x-bible
+are		7881		189288		9842
+deu-x-bible-luther1545letztehand
+deu		35765		993437		29778
+yuj-x-bible
+yuj		7957		289084		8615
+crq-x-bible
+crq		7846		262885		18670
+wer-x-bible
+wer		7927		227050		9653
+maa-x-bible-sanantonio
+maa		7958		257659		19070
+fil-x-bible-1905
+fil		7958		217614		11039
+mbi-x-bible
+mbi		7958		329292		10179
+rkb-x-bible
+rkb		7949		273229		16492
+miy-x-bible
+miy		7958		326840		3279
+gun-x-bible
+gun		7958		202628		8532
+gag-x-bible-latin
+gag		7958		158888		17604
+cya-x-bible
+cya		7958		274636		2418
+sqi-x-bible-interconfessional
+sqi		7818		193829		11835
+fin-x-bible-1992
+fin		31170		647750		57208
+eng-x-bible-goodnews
+eng		7776		218957		6169
+mwc-x-bible
+mwc		1150		31195		2783
+ktu-x-bible
+ktu		7958		196739		4359
+plt-x-bible-1865
+plt		7944		184675		10753
+bss-x-bible
+bss		7942		224617		17404
+eus-x-bible-navarrolabourdin
+eus		7958		159507		18365
+tzo-x-bible-chamula2000
+tzo		7682		254332		11668
+swg-x-bible
+swg		7633		214086		10108
+ifk-x-bible
+ifk		7958		222974		11161
+ces-x-bible-bible21
+ces		31163		673802		49708
+nho-x-bible
+nho		7958		326114		2762
+kmo-x-bible
+kmo		7954		249909		8978
+wib-x-bible
+wib		7060		246890		5547
+yom-x-bible
+yom		10485		231644		15863
+chv-x-bible
+chv		7956		164034		17706
+fra-x-bible-davidmartin
+fra		31168		940743		26742
+urt-x-bible
+urt		7958		299047		3317
+fon-x-bible
+fon		35527		1370469		10252
+por-x-bible-livro
+por		5925		202983		14869
+gil-x-bible
+gil		7941		255490		6350
+ajz-x-bible
+ajz		7958		196977		10695
+las-x-bible
+las		7954		264284		6076
+kkj-x-bible
+kkj		7958		302974		4268
+kup-x-bible
+kup		7955		299827		12584
+swh-x-bible-habarinjema
+swh		7688		168791		17788
+enx-x-bible
+enx		7958		230065		14749
+hbo-x-bible-westminster
+hbo		23215		300787		68889
+nmw-x-bible
+nmw		1226		35306		2557
+eng-x-bible-catholic
+eng		7958		224679		6952
+cbc-x-bible
+cbc		7958		313234		20493
+myk-x-bible
+myk		7958		305036		4407
+nij-x-bible
+nij		7937		222040		6119
+eng-x-bible-new2007
+eng		7931		207413		7379
+ium-x-bible-thai
+ium		7667		247631		2605
+qxh-x-bible
+qxh		7951		161053		23703
+acd-x-bible
+acd		7956		356351		4699
+run-x-bible
+run		7958		151343		23683
+nep-x-bible-simple
+nep		7958		169477		16715
+yva-x-bible
+yva		7488		269614		7526
+lhm-x-bible
+lhm		7958		219386		9438
+eng-x-bible-worldwide
+eng		7884		233577		3520
+pcm-x-bible
+pcm		7956		222324		2994
+jra-x-bible
+jra		7946		263623		2785
+tob-x-bible
+tob		31171		998182		25428
+nhy-x-bible
+nhy		7958		216616		13799
+bao-x-bible
+bao		7958		282620		11427
+mam-x-bible-todossantos
+mam		7955		295904		12916
+dad-x-bible
+dad		7738		232073		6298
+bbr-x-bible
+bbr		7958		285850		6681
+tuo-x-bible-2009
+tuo		7956		255657		13131
+tgo-x-bible
+tgo		8088		242410		9260
+ksc-x-bible
+ksc		7958		217328		17460
+way-x-bible
+way		7958		179768		15951
+kir-x-bible-rayofhope
+kir		31099		654666		46254
+bib-x-bible
+bib		7955		287508		3524
+ket-x-bible
+ket		20		297		165
+huu-x-bible
+huu		7956		208851		11658
+deu-x-bible-neue
+deu		31148		810763		30072
+lom-x-bible
+lom		7955		268845		6856
+eza-x-bible
+eza		7958		289295		14876
+bfo-x-bible
+bfo		7958		275589		4592
+mio-x-bible
+mio		7958		332107		2101
+hbo-x-bible-leningradconsonants
+hbo		23215		300787		56288
+gux-x-bible
+gux		7958		243558		4387
+nyn-x-bible
+nyn		7958		147631		24794
+tue-x-bible
+tue		7955		188427		18145
+ndi-x-bible
+ndi		7958		293864		5220
+cak-x-bible-eastern
+cak		7958		337738		11103
+hye-x-bible-eastern
+hye		6516		144009		14617
+bzd-x-bible
+bzd		7942		255810		9558
+csk-x-bible
+csk		7958		211970		16218
+pon-x-bible-old
+pon		10482		247222		6801
+tsn-x-bible-1908
+tsn		7944		247037		9126
+cnl-x-bible
+cnl		7958		261839		9320
+aau-x-bible
+aau		7944		317043		5935
+awb-x-bible
+awb		7956		191009		18947
+mqy-x-bible
+mqy		7958		223166		8262
+tpt-x-bible
+tpt		7958		202220		16622
+deu-x-bible-schlachter
+deu		31173		829664		28461
+caa-x-bible
+caa		7958		336443		6618
+urk-x-bible
+urk		7942		271317		2284
+qvi-x-bible
+qvi		7786		191056		19587
+tur-x-bible-newworld
+tur		31157		607934		57993
+nbe-x-bible
+nbe		7959		179689		11116
+ntr-x-bible
+ntr		7957		302118		3230
+ame-x-bible
+ame		7956		253230		27653
+abt-x-bible-wosera
+abt		7958		327275		9223
+apb-x-bible
+apb		7958		325042		5169
+moc-x-bible
+moc		7860		225092		12813
+tnn-x-bible
+tnn		7943		250853		10827
+tac-x-bible
+tac		7954		281676		12037
+npo-x-bible
+npo		7958		202911		13211
+nld-x-bible-newworld
+nld		31157		982616		21668
+bon-x-bible
+bon		7958		277666		8585
+gjn-x-bible
+gjn		7958		284706		4050
+fuv-x-bible
+fuv		7954		190448		11922
+lia-x-bible
+lia		7958		278482		6894
+hwc-x-bible-2000
+hwc		7428		287908		2865
+ppk-x-bible
+ppk		7957		219485		15411
+gwi-x-bible
+gwi		7958		205974		13282
+cop-x-bible-bohairicdiacritics
+cop		7957		140413		22156
+cco-x-bible
+cco		7958		341171		12009
+cux-x-bible
+cux		7958		295172		7427
+ifb-x-bible
+ifb		7958		240521		16152
+cak-x-bible-central1980
+cak		7958		344340		11465
+ahk-x-bible
+ahk		7941		339402		4518
+bem-x-bible-newworld
+bem		31157		787780		53581
+sbd-x-bible
+sbd		7958		308398		3645
+grc-x-bible-byzantine
+grc		7950		140513		17183
+gug-x-bible
+gug		7897		170175		14571
+fra-x-bible-crampon
+fra		31233		865111		30810
+crx-x-bible
+crx		7958		230758		19466
+ino-x-bible
+ino		7955		256189		19005
+fao-x-bible
+fao		31153		812024		33556
+ckb-x-bible
+ckb		7958		141518		18904
+vun-x-bible
+vun		7957		168031		17413
+arl-x-bible
+arl		7956		260394		20176
+snp-x-bible-lambau
+snp		7957		267100		9525
+djk-x-bible
+djk		7956		353116		2358
+tgp-x-bible
+tgp		7944		257394		3718
+kbh-x-bible
+kbh		7958		235773		20222
+ong-x-bible
+ong		7957		315576		5613
+ifa-x-bible
+ifa		7958		226271		14456
+kix-x-bible
+kix		7957		178435		11800
+ncu-x-bible
+ncu		7957		321478		5062
+snw-x-bible
+snw		7958		243889		12601
+xon-x-bible-likpakpaaln
+xon		7958		259911		4361
+bwd-x-bible
+bwd		1533		38142		4606
+nhe-x-bible
+nhe		7958		223565		14656
+hui-x-bible
+hui		7955		238501		10581
+loq-x-bible
+loq		3779		94334		8536
+sot-x-bible-southern1961
+sot		7953		226327		8482
+mmn-x-bible
+mmn		7958		274610		8624
+spy-x-bible-1997
+py		7869		190518		19324
+xsb-x-bible
+xsb		7958		254678		10553
+mbc-x-bible
+mbc		7958		264626		10826
+fal-x-bible
+fal		7958		226426		6671
+poh-x-bible-eastern
+poh		31173		1148066		18956
+ell-x-bible-hellenic2
+ell		7765		204395		15225
+prf-x-bible
+prf		7773		222779		9599
+stp-x-bible
+stp		7958		429640		7069
+kje-x-bible
+kje		7958		270048		6104
+gud-x-bible
+gud		7943		251250		8597
+for-x-bible
+for		7955		203666		21295
+quw-x-bible
+quw		7958		153470		15694
+acr-x-bible-cubulcu
+acc		7958		340590		5458
+urd-x-bible-international
+urd		7947		242897		6164
+cab-x-bible
+cab		7958		198148		16215
+lao-x-bible
+lao		7958		231528		6009
+rus-x-bible-synodal
+rus		31173		687028		50009
+awa-x-bible
+awa		7946		236957		12549
+tur-x-bible-2004
+tur		31069		569914		59478
+tim-x-bible
+tim		7957		236256		10560
+mcp-x-bible
+mcp		7958		270580		6757
+maa-x-bible-tecoatl
+maa		7958		256824		14239
+pan-x-bible-newworld
+pan		7942		240534		6909
+cap-x-bible-2004
+cap		7958		183907		18806
+khk-x-bible
+khk		7933		161518		17228
+bom-x-bible
+bom		7958		318116		3596
+npl-x-bible
+npl		7952		178997		15731
+ilb-x-bible
+ilb		6807		138431		20989
+ubu-x-bible-nopenge
+ubu		7956		373287		8260
+cpu-x-bible
+cpu		7958		152456		29206
+pbb-x-bible
+pbb		7958		172938		17926
+hil-x-bible-newworld2007
+hil		7942		228710		8369
+fra-x-bible-courant1997
+fra		7775		219313		11309
+ptu-x-bible
+ptu		7958		220881		13544
+niv-x-bible
+niv		20		334		179
+klv-x-bible
+klv		7911		214196		10734
+myw-x-bible
+myw		7938		186265		11868
+eng-x-bible-easytoread
+eng		7668		233452		4502
+amf-x-bible
+amf		7958		179283		17679
+kgf-x-bible
+kgf		10486		237545		13442
+mrg-x-bible
+mrg		6373		126245		22653
+pir-x-bible
+pir		7956		272272		9925
+msk-x-bible
+msk		7957		283181		10029
+ncj-x-bible
+ncj		7958		192364		16166
+alj-x-bible
+alj		7941		213577		5301
+deu-x-bible-zuercher
+deu		31173		831277		29064
+tyv-x-bible
+tyv		31110		702892		48294
+mwv-x-bible
+mwv		7902		237519		15211
+snp-x-bible-komongu
+snp		7957		263011		10364
+zpt-x-bible
+zpt		7958		259166		4869
+ipi-x-bible
+ipi		7952		333366		7045
+zho-x-bible-shangti
+zho		31161		741965		24488
+gvf-x-bible
+gvf		7954		314121		4924
+beq-x-bible
+beq		7958		195699		13056
+tuf-x-bible
+tuf		7957		292386		9504
+ndj-x-bible
+ndj		7958		168585		17924
+qul-x-bible-2006
+qul		7957		172319		27566
+deu-x-bible-pattloch
+deu		35491		926181		36444
+eus-x-bible-batua
+eus		7632		153205		15795
+mil-x-bible
+mil		7958		324422		11220
+kew-x-bible
+kew		9448		272925		14188
+gla-x-bible
+gla		678		18127		2305
+huv-x-bible
+huv		7958		236135		8118
+zac-x-bible
+zac		7958		246115		8238
+enm-x-bible-tyndale
+enm		7946		195459		9558
+yle-x-bible
+yle		7947		341175		4358
+arp-x-bible
+arp		1151		17884		5394
+kng-x-bible
+kng		7946		188383		13962
+kir-x-bible-2005
+kir		7956		167114		21776
+aai-x-bible
+aai		7958		200015		12673
+tir-x-bible
+tir		7681		140698		22253
+kki-x-bible
+kki		7958		152403		22304
+mco-x-bible
+mco		7958		251209		20351
+kvn-x-bible
+kvn		7958		192247		29265
+nsn-x-bible
+nsn		7948		271432		10532
+mux-x-bible
+mux		7955		355833		10362
+kor-x-bible-latinscript
+kor		7909		114667		21410
+enm-x-bible-wycliffe
+enm		7936		211620		8532
+jiv-x-bible
+jiv		7958		164186		24875
+pww-x-bible
+pww		7901		326374		2772
+lem-x-bible
+lem		7958		284577		8737
+amn-x-bible-naineri
+amn		7957		232707		14489
+gmv-x-bible-latin
+gmv		7958		147772		19282
+kyc-x-bible
+kyc		7896		225452		10042
+crn-x-bible-presidio
+crn		7953		364616		11999
+por-x-bible-almeidarevista
+por		31173		843519		29862
+ebk-x-bible
+ebk		7958		248944		14032
+nob-x-bible-2011
+nob		7491		186753		8162
+nii-x-bible
+nii		7947		380828		3708
+eng-x-bible-books
+eng		5722		145044		6152
+okv-x-bible
+okv		7949		228580		5588
+grc-x-bible-wescotthortVAR2
+grc		7939		139041		17299
+bru-x-bible
+bru		7958		286953		2962
+gur-x-bible-frafra
+gur		31173		944768		12383
+kus-x-bible
+kus		7955		227739		6061
+ctu-x-bible-tumbala
+ctu		7957		234147		6937
+miz-x-bible
+miz		7958		308782		7546
+gum-x-bible
+gum		7958		227920		19273
+mbj-x-bible
+mbj		7729		343691		5697
+xho-x-bible-2012
+xho		31173		573578		89260
+kek-x-bible-1988
+kek		31173		1000577		21860
+deu-x-bible-schlachter2000
+deu		7958		204187		10843
+wal-x-bible
+wal		31171		653294		48658
+nob-x-bible-2007
+nob		7958		198092		8389
+chu-x-bible
+chu		7855		151968		17505
+yon-x-bible
+yon		12006		334688		17744
+npi-x-bible-newworld
+npi		7942		176518		16504
+cce-x-bible
+cce		7958		239669		9017
+deu-x-bible-gruenewalder
+deu		35570		915491		38583
+srn-x-bible-newworld
+srn		30611		1103624		5770
+ojs-x-bible
+ojs		7952		171869		33389
+grc-x-bible-tischendorf
+grc		7940		137805		17404
+mej-x-bible
+mej		7958		355918		5062
+bsp-x-bible
+bsp		4542		114448		11771
+sot-x-bible-southern1989
+sot		31173		964782		21119
+ell-x-bible-hellenic1
+ell		7915		194135		16406
+sas-x-bible
+sas		7958		221806		6536
+plu-x-bible
+plu		7955		275727		12332
+ita-x-bible-nuovadiodati1991
+ita		31173		824045		30747
+maw-x-bible
+maw		7944		281024		5703
+som-x-bible
+som		31173		808542		41075
+cbv-x-bible
+cbv		7956		326004		8567
+cta-x-bible
+cta		7958		405818		2594
+zul-x-bible
+zul		7950		126378		27000
+qvc-x-bible
+qvc		7957		208258		24646
+mdy-x-bible
+mdy		7955		168162		15641
+hay-x-bible
+hay		7958		141168		25877
+pmf-x-bible
+pmf		7957		350902		6939
+por-x-bible-newworld1996
+por		31157		941094		32468
+kue-x-bible
+kue		7958		245979		6525
+nfr-x-bible
+nfr		7955		268926		3064
+bod-x-bible
+bod		23215		119881		57852
+pma-x-bible-revised
+pma		11084		388953		9867
+mam-x-bible-northern
+mam		31173		941450		15848
+jam-x-bible
+jam		7701		277085		2692
+ttc-x-bible
+ttc		7958		264366		8091
+mhi-x-bible
+mhi		7957		238298		6100
+gbi-x-bible
+gbi		7958		322724		11620
+cat-x-bible-inter
+cat		7938		200539		12915
+emp-x-bible
+emp		7956		186939		10973
+ikk-x-bible
+ikk		7958		242147		8012
+njb-x-bible
+njb		7940		203091		15358
+hub-x-bible-1975
+hub		7956		186946		24995
+aeb-x-bible
+aeb		7958		147226		18454
+mlt-x-bible
+mlt		7761		157176		16024
+kyu-x-bible
+kyu		7927		283665		13010
+ura-x-bible
+ura		7957		234399		18970
+mmx-x-bible
+mmx		10486		353616		5575
+bto-x-bible
+bto		7958		204453		10281
+ary-x-bible
+ary		3555		66763		8491
+mfh-x-bible
+mfh		7958		280717		9771
+hch-x-bible
+hch		7958		144684		27652
+fij-x-bible-hindi
+fij		7958		286262		4558
+kjs-x-bible
+kjs		7958		234974		11289
+des-x-bible
+des		7956		251599		15202
+bpr-x-bible
+bpr		7904		239973		7551
+mie-x-bible
+mie		7958		303520		3449
+fra-x-bible-geneve1669
+fra		7955		209754		12114
+swe-x-bible-nyalevande
+swe		7595		223446		8572
+crm-x-bible
+crm		7958		178516		20452
+ndc-x-bible
+ndc		7958		140603		23551
+bmu-x-bible
+bmu		9622		308260		18029
+hye-x-bible-newworld
+hye		31099		730626		43094
+bex-x-bible
+bex		7956		280773		3754
+auy-x-bible
+auy		7956		143977		24347
+tku-x-bible
+tku		7958		173696		17504
+acn-x-bible
+acn		7958		256788		3757
+fra-x-bible-jerusalem2004
+fra		35262		930068		34658
+lav-x-bible-jaunaderiba
+lav		7951		163782		16537
+eng-x-bible-contemporary
+eng		6212		158224		4609
+mah-x-bible
+mah		31157		885688		9564
+toh-x-bible
+toh		7956		223622		8890
+ssw-x-bible-newworld
+ssw		7942		136174		27387
+kms-x-bible
+kms		7943		314709		3021
+gde-x-bible
+gde		7957		258654		7813
+jav-x-bible-2006
+jav		7958		202972		12053
+sna-x-bible
+sna		7958		145251		24075
+tzo-x-bible-huixtan
+tzo		7958		279510		11188
+meu-x-bible
+meu		31167		868444		17161
+msb-x-bible
+msb		7958		226281		11214
+esu-x-bible
+esu		7958		107129		32111
+cpc-x-bible
+cpc		7958		149012		26619
+uig-x-bible-romanized
+uig		7952		172662		21415
+tav-x-bible
+tav		7956		302334		15538
+aim-x-bible
+aim		7958		233186		10745
+ceb-x-bible-newworld
+ceb		31157		996449		23384
+cbi-x-bible
+cbi		7942		218690		19824
+amp-x-bible
+amp		7945		268933		27044
+kgp-x-bible
+kgp		7957		443538		2979
+hun-x-bible-newworld
+hun		31157		739792		63844
+apw-x-bible
+apw		7952		164133		20252
+vie-x-bible-revised
+vie		7755		228707		3662
+etu-x-bible
+etu		7958		277772		4742
+ukr-x-bible-2009
+ukr		31173		731299		47432
+tpa-x-bible
+tpa		674		17981		2163
+gfk-x-bible
+gfk		7877		307936		3762
+mya-x-bible-newworld
+mya		7942		91132		37302
+tbk-x-bible
+tbk		7958		392251		18220
+mcf-x-bible
+mcf		7956		240256		19354
+dop-x-bible
+dop		7958		244495		7994
+grc-x-bible-wescotthortVAR1
+grc		7939		138673		17292
+fra-x-bible-paroledevie
+fra		31157		925825		19069
+szb-x-bible
+szb		7940		242643		9524
+ron-x-bible-newworld
+ron		31157		866120		25159
+fry-x-bible
+fry		31170		905589		21780
+mkd-x-bible-dynamic
+mkd		7956		206004		15556
+kog-x-bible
+kog		7958		232756		23998
+fin-x-bible-1933
+fin		31158		672882		54634
+lsi-x-bible
+lsi		7792		314200		7204
+swe-x-bible-folkbibeln2015
+swe		31155		774084		23457
+aaz-x-bible
+aaz		9491		406977		10331
+mhl-x-bible
+mhl		7956		238242		9487
+jbu-x-bible
+jbu		7957		295360		5842
+aoj-x-bible-mufian
+aoj		7957		254609		17135
+lac-x-bible
+lac		7956		384394		9750
+cpy-x-bible
+cpy		6129		118713		24329
+boa-x-bible
+boa		7956		154458		21058
+tgl-x-bible-1996
+tgl		7942		209834		11069
+hin-x-bible-easy
+hin		31173		1035993		22351
+hrv-x-bible-2000
+hrv		7944		171403		18078
+ctd-x-bible
+ctd		31172		965306		21144
+cbs-x-bible
+cbs		7948		224244		21424
+cym-x-bible-colloquial2013
+cym		28689		847394		15907
+tna-x-bible
+tna		7956		253195		7372
+smo-x-bible-newworld
+smo		31157		1185532		7591
+auc-x-bible
+auc		7958		310821		11612
+lcm-x-bible
+lcm		9624		317781		4311
+kbd-x-bible
+kbd		1284		25548		7357
+mar-x-bible
+mar		7947		187998		17895
+nhi-x-bible
+nhi		7958		190470		16503
+aly-x-bible
+aly		7946		178887		17928
+deu-x-bible-luther2017
+deu		34823		913983		26240
+kxc-x-bible
+kxc		7958		180381		17104
+pol-x-bible-living
+pol		7706		170620		18649
+uzb-x-bible-latin2013
+uzb		31168		662056		58870
+bbb-x-bible
+bbb		11289		410773		12519
+urd-x-bible-devanagari
+urd		7947		236875		6579
+arb-x-bible-newworld
+arb		31173		658211		76825
+kss-x-bible
+kss		7792		333194		7754
+guh-x-bible
+guh		7958		258433		25464
+cak-x-bible-santamaria
+cak		7958		274190		9324
+spa-x-bible-newworld
+spa		31157		993508		28392
+swh-x-bible-newworld
+swh		31157		802062		45729
+sin-x-bible-newworld
+sin		31173		799807		36081
+bul-x-bible-veren
+bul		31173		766164		32692
+ozm-x-bible
+ozm		7943		320847		8673
+nya-x-bible-newworld
+nya		31157		742884		54965
+bul-x-bible-1940
+bul		31173		788854		37045
+bgs-x-bible
+bgs		10075		331459		7779
+irk-x-bible
+irk		7957		214759		14386
+caq-x-bible
+caq		31164		912341		27043
+kdh-x-bible
+kdh		1071		23436		4344
+deu-x-bible-luther1912
+deu		31173		813317		22583
+aso-x-bible
+aso		7945		293017		14716
+grc-x-bible-unaccented
+grc		29010		595800		44229
+xrb-x-bible
+xrb		7956		332284		3366
+deu-x-bible-volxbibel
+deu		7934		274718		12854
+ivv-x-bible
+ivv		7957		244917		8349
+sgz-x-bible
+sgz		7954		349540		3439
+quc-x-bible-joyabaj
+quc		7958		310203		9236
+slv-x-bible-newworld
+slv		31157		797790		40120
+zca-x-bible
+zca		7958		278623		6116
+srp-x-bible-newworld
+srp		31157		762842		39091
+amu-x-bible
+amu		7958		233526		15551
+apr-x-bible
+apr		7943		411162		4812
+dur-x-bible
+dur		7957		251952		4219
+vag-x-bible
+vag		7958		246064		5436
+eng-x-bible-treeoflife
+eng		7947		205056		7548
+srp-x-bible
+srp		7928		172552		16062
+fuf-x-bible
+fuf		7958		205771		14054
+mkn-x-bible
+mkn		9490		391818		4154
+ilo-x-bible-newworld
+ilo		31157		938411		41017
+hnn-x-bible
+hnn		7956		234937		9555
+abx-x-bible
+abx		7943		237998		15402
+spa-x-bible-lapalabra
+spa		31165		804442		33535
+sxn-x-bible-siau
+sxn		7958		239244		18574
+ind-x-bible-bouma
+ind		7958		175566		10745
+ibo-x-bible
+ibo		7958		209493		10668
+pes-x-bible-newmillennium2011
+pes		7928		191566		11872
+oji-x-bible
+oji		8000		130753		27701
+snd-x-bible
+snd		7896		223776		8474
+fra-x-bible-nouvellesegond
+fra		7663		197098		11417
+eng-x-bible-common
+eng		7922		202278		7308
+kff-x-bible
+kff		7958		162938		19189
+bjp-x-bible
+bjp		878		28768		1072
+oss-x-bible
+oss		10704		236626		17713
+nya-x-bible
+nya		7936		161805		19154
+ava-x-bible
+ava		7950		162519		20110
+crh-x-bible
+crh		9628		195308		21885
+mtg-x-bible
+mtg		7958		460986		17064
+knk-x-bible
+knk		7958		252299		7324
+dak-x-bible
+dak		2368		61049		5432
+ots-x-bible
+ots		7958		399416		10259
+yli-x-bible
+yli		7956		244282		7685
+zao-x-bible
+zao		7958		255596		5604
+lob-x-bible
+lob		7958		211808		9300
+bim-x-bible
+bim		7955		244647		7208
+wwa-x-bible
+wwa		7956		260633		6483
+ptp-x-bible
+ptp		7958		317899		2235
+nno-x-bible-1978
+nno		31172		821630		20007
+bvr-x-bible
+bvr		7958		285281		9181
+bku-x-bible
+bku		7958		238041		7793
+qvo-x-bible
+qvo		7954		149926		17730
+nbc-x-bible
+nbc		7960		169301		12809
+hau-x-bible
+hau		7931		212717		7638
+fij-x-bible-bau
+fij		31158		1072124		12560
+knv-x-bible-aramia
+knv		7958		281874		16793
+swe-x-bible-2000
+swe		35161		842999		28506
+fra-x-bible-kingjames
+fra		31172		883470		26584
+heh-x-bible
+heh		7958		163821		23804
+npi-x-bible
+npi		31173		790897		51705
+aln-x-bible-newworld
+aln		31157		879742		29994
+laj-x-bible
+laj		7958		206006		8740
+zyp-x-bible
+zyp		7956		260309		5826
+nxd-x-bible
+nxd		7958		162449		19879
+tih-x-bible
+tih		7958		231110		8078
+nst-x-bible
+nst		31172		1115188		32093
+mcu-x-bible
+mcu		7958		300838		3894
+swe-x-bible-karlxii
+swe		31170		811152		25291
+lew-x-bible
+lew		7958		225561		10823
+yml-x-bible
+yml		7955		264802		8236
+njn-x-bible
+njn		7955		179948		13197
+ind-x-bible-suciinjil
+ind		31173		781812		22173
+hix-x-bible
+hix		7958		406880		13920
+nwi-x-bible
+nwi		7476		246100		10346
+kri-x-bible
+kri		7956		288697		2334
+mgh-x-bible
+mgh		2367		44844		9396
+cag-x-bible
+cag		7958		209225		18599
+mbf-x-bible
+mbf		7940		208028		5304
+ndp-x-bible
+ndp		7958		190654		10934
+kap-x-bible
+kap		915		13202		4221
+ixl-x-bible-2001
+ixl		7666		246479		13424
+fai-x-bible
+fai		7957		289854		12489
+pdt-x-bible
+pdt		31173		885609		18253
+nob-x-bible-newworld
+nob		31157		927812		21691
+aom-x-bible
+aom		7957		241893		18682
+smo-x-bible
+smo		7942		284243		3495
+iws-x-bible
+iws		7957		348125		16259
+ote-x-bible
+ote		7958		280756		8788
+rop-x-bible
+rop		31173		1069484		6751
+tlf-x-bible
+tlf		7956		426990		11463
+azg-x-bible
+azg		7958		310900		13774
+gof-x-bible
+gof		7795		142602		16532
+kpg-x-bible
+kpg		31172		1098460		6494
+dip-x-bible
+dip		7958		230243		6599
+alp-x-bible
+alp		7846		247841		6612
+yre-x-bible
+yre		7958		326143		3261
+eko-x-bible
+eko		3181		64457		9808
+bav-x-bible
+bav		7958		289440		3631
+wim-x-bible
+wim		7950		333487		13880
+kbm-x-bible
+kbm		7957		316695		4341
+lus-x-bible
+lus		7547		229890		7986
+urd-x-bible-2007
+urd		7897		258546		9820
+deu-x-bible-menge
+deu		35455		1067234		38160
+hat-x-bible-newworld2007
+hat		7942		254128		3949
+pfe-x-bible
+pfe		10473		262683		10851
+ces-x-bible-newworld
+ces		31157		805322		45912
+gag-x-bible
+gag		7958		159351		17608
+hat-x-bible-1999
+hat		31173		1046630		9679
+ven-x-bible-newworld
+ven		7942		227771		6512
+nfa-x-bible
+nfa		7958		340940		3727
+yor-x-bible-2010
+yor		30764		906632		15661
+aia-x-bible
+aia		7955		251416		6476
+ign-x-bible-1980
+ign		7958		201310		30033
+sot-x-bible-newworld
+sot		31157		1033480		17263
+hrv-x-bible-newworld
+hrv		31157		761313		40409
+msa-x-bible-shellabear
+msa		7946		202671		8281
+ceb-x-bible-godsword
+ceb		31173		886204		21824
+dnj-x-bible-western
+dnj		7385		325705		3140
+ayr-x-bible-2011
+ayr		31170		621712		86311
+dan-x-bible-1931
+dan		31173		782398		26425
+ben-x-bible-holybible
+ben		7886		191952		8440
+hnj-x-bible-standard
+hnj		31157		1072959		5300
+leh-x-bible
+leh		35452		751306		69626
+hig-x-bible
+hig		7957		297794		4675
+kyf-x-bible
+kyf		7958		261977		6391
+ceb-x-bible-bugna2009
+ceb		31173		978696		27316
+tpm-x-bible
+tpm		31170		985627		10999
+amh-x-bible-latin
+amh		7960		117739		24772
+kkl-x-bible
+kkl		3835		147243		14328
+bgz-x-bible
+bgz		7873		211955		13469
+eng-x-bible-diaglot
+eng		7951		219286		7135
+tbg-x-bible
+tbg		19918		641134		23274
+plt-x-bible-interconfessional
+plt		7958		199444		13760
+djr-x-bible
+djr		7958		354780		18773
+mps-x-bible
+mps		31170		1471419		15631
+hun-x-bible-revised
+hun		7958		170027		21542
+ell-x-bible-koine1894
+ell		7958		166341		19870
+usa-x-bible
+usa		8228		183854		30675
+ceb-x-bible-bugna
+ceb		31141		982955		29129
+roo-x-bible
+roo		7955		303794		14692
+vie-x-bible-newworld
+vie		7942		234458		3586
+kmh-x-bible-kalam
+kmh		7957		253131		5004
+kao-x-bible
+kao		7958		243091		6250
+ndo-x-bible
+ndo		7724		191030		12827
+yuz-x-bible
+yuz		7946		171464		24668
+sim-x-bible
+sim		7945		301177		8309
+cof-x-bible
+cof		7958		223382		16155
+tha-x-bible-standard1971
+tha		31158		1029070		10097
+khm-x-bible-2011
+khm		7886		232134		5022
+deu-x-bible-meister
+deu		7956		201033		11454
+kbr-x-bible
+kbr		7745		174954		18611
+est-x-bible-1968
+est		9488		208853		17658
+mlt-x-bible-newworld
+mlt		31157		742192		41454
+mad-x-bible
+mad		7958		219381		8351
+ilo-x-bible-revised
+ilo		7942		197727		17018
+zpq-x-bible
+zpq		7958		237078		12678
+tzj-x-bible-eastern
+tzj		7958		269974		11573
+pap-x-bible-newworld
+pap		7942		239548		5029
+por-x-bible-paratodos
+por		31173		816128		31441
+qxn-x-bible
+qxn		7956		184681		30256
+bsc-x-bible
+bsc		7958		234875		10432
+gvc-x-bible
+gvc		7956		283989		10359
+hot-x-bible
+hot		7945		239133		3595
+tdt-x-bible
+tdt		7942		225016		2588
+kpx-x-bible
+kpx		7955		215020		9200
+trc-x-bible
+trc		7958		413964		3015
+hvn-x-bible
+hvn		7901		335684		6283
+est-x-bible-1997
+est		31173		693352		42440
+chf-x-bible
+chf		7958		284683		8295
+tod-x-bible
+tod		11206		343516		11437
+lug-x-bible-revised
+lug		7958		153764		21922
+dgi-x-bible
+dgi		7958		279006		4687
+hye-x-bible-western
+hye		7947		167317		17354
+khm-x-bible-standard2005
+khm		7813		53788		29886
+nso-x-bible-2000
+nso		7788		238195		9160
+cak-x-bible-western
+cak		7958		366690		9010
+byx-x-bible
+byx		7957		407163		3950
+tab-x-bible
+tab		7943		166485		19972
+twu-x-bible
+twu		7958		273101		7627
+myu-x-bible
+myu		7958		294300		14668
+klt-x-bible
+klt		758		22520		2189
+geb-x-bible
+geb		7958		353925		6263
+rmy-x-bible
+rmy		7958		216424		7933
+tso-x-bible-newworld
+tso		28932		922413		17462
+kin-x-bible-2004
+kin		7679		149512		23697
+qvh-x-bible
+qvh		7958		155152		23647
+kqs-x-bible
+kqs		7958		232240		8023
+mzh-x-bible
+mzh		31157		853136		27293
+cjp-x-bible
+cjp		7958		233348		8457
+hmo-x-bible-newworld
+hmo		7942		244594		2471
+ben-x-bible-mussolmani
+ben		31163		764161		20516
+sua-x-bible
+sua		7876		485760		4594
+lam-x-bible
+lam		7957		145033		26922
+wed-x-bible-topura
+wed		673		16824		2217
+nss-x-bible
+nss		2189		66193		4625
+rai-x-bible
+rai		7942		296004		2949
+tur-x-bible-goodnews
+tur		7958		146893		22538
+pes-x-bible-1995
+pes		7902		171967		13061
+eng-x-bible-clontz
+eng		7942		202173		6937
+ita-x-bible-riveduta
+ita		31173		860122		31269
+kxm-x-bible
+kxm		7954		225706		2638
+adz-x-bible
+adz		1533		45300		2377
+miq-x-bible
+miq		31173		988338		10314
+nso-x-bible-neworthography
+nso		7957		220590		9329
+nog-x-bible
+nog		9791		202296		23929
+pol-x-bible-newworld
+pol		31157		784332		47647
+sbe-x-bible
+sbe		2756		79368		4149
+hin-x-bible-newworld
+hin		7942		242642		7445
+zpi-x-bible
+zpi		7958		238129		6813
+ron-x-bible-cornilescu
+ron		31173		838466		24579
+nld-x-bible-2004
+nld		7628		199146		9517
+tzh-x-bible-bachajon
+tzh		7882		223728		9547
+uzb-x-bible-latin2008
+uzb		12017		229481		32404
+yss-x-bible-mayo
+yss		7951		268596		5819
+ilo-x-bible-popular
+ilo		35655		870261		49779
+nzm-x-bible
+nzm		7958		243308		10451
+wmw-x-bible
+wmw		7943		171574		20229
+czt-x-bible
+czt		7907		221204		11807
+yrb-x-bible
+yrb		7957		205096		8169
+sxb-x-bible
+sxb		7698		199200		16241
+ceb-x-bible-pinadayag
+ceb		31173		984017		29118
+hbo-x-bible-leningrad
+hbo		23215		300787		126015
+nhg-x-bible
+nhg		7945		204981		16310
+dtp-x-bible
+dtp		7848		307808		8802
+kmg-x-bible
+kmg		6159		130106		14543
+agg-x-bible
+agg		7943		228833		24209
+deu-x-bible-greber
+deu		7952		239851		15135
+eng-x-bible-majority
+eng		7954		217871		7000
+swh-x-bible-union1952
+swh		7958		171719		18198
+tnp-x-bible
+tnp		7949		274618		10444
+icr-x-bible
+icr		7958		284688		3459
+pio-x-bible
+pio		7669		264834		15271
+soy-x-bible
+soy		7958		225814		8793
+ben-x-bible-old
+ben		7948		192352		8846
+qvw-x-bible
+qvw		7955		137987		31517
+tsw-x-bible
+tsw		7956		286549		4362
+eng-x-bible-kingjames
+eng		37056		1081529		15706
+ata-x-bible
+ata		9527		329374		11867
+cmo-x-bible
+cmo		7958		337353		2647
+fuh-x-bible
+fuh		7958		187977		13482
+yad-x-bible
+yad		7957		183828		23832
+bqj-x-bible
+bqj		7958		207216		17497
+aak-x-bible
+aak		7959		268511		23392
+uvh-x-bible
+uvh		7958		368279		10440
+fra-x-bible-darby
+fra		31170		890678		25835
+vmy-x-bible
+vmy		7958		201790		13148
+yby-x-bible
+yby		7959		229660		18689
+mzw-x-bible
+mzw		7949		264208		4616
+pab-x-bible
+pab		7958		188961		15389
+dan-x-bible-hverdagsdansk
+dan		7947		222324		10101
+cjo-x-bible
+cjo		7958		189899		30578
+vid-x-bible
+vid		7958		180674		18508
+gur-x-bible-ninkare
+gur		7958		245618		4213
+sld-x-bible
+sld		7958		246975		6617
+ita-x-bible-vita1997
+ita		7112		200961		13715
+bhp-x-bible
+bhp		7895		238336		9306
+naf-x-bible
+naf		7958		232116		16281
+mti-x-bible
+mti		7943		194717		7025
+tcs-x-bible
+tcs		9411		339109		3993
+akh-x-bible
+akh		7958		444731		6397
+wnu-x-bible
+wnu		7954		253782		7847
+nyo-x-bible
+nyo		7958		151701		24724
+min-x-bible
+min		7903		261125		8032
+lol-x-bible
+lol		7957		156981		18607
+yor-x-bible-newworld
+yor		31099		1094174		11979
+kor-x-bible-1985
+kor		7903		137304		20575
+zaa-x-bible
+zaa		7958		290076		11112
+rro-x-bible
+rro		7958		193371		11133
+mpt-x-bible
+mpt		7953		273282		16449
+ade-x-bible
+ade		7958		294831		4899
+btd-x-bible
+btd		7864		218209		11653
+kne-x-bible
+kne		7877		243017		11065
+dwr-x-bible
+dwr		7955		159368		18465
+spp-x-bible
+spp		7958		285682		6491
+nch-x-bible
+nch		7958		224587		14145
+toc-x-bible
+toc		7957		244520		21454
+agx-x-bible
+agx		1151		23065		4706
+hbo-x-bible-leningradunicodeconsonants
+hbo		23214		299003		56266
+ban-x-bible
+ban		7958		242536		10712
+wiu-x-bible
+wiu		7952		236280		15001
+nhx-x-bible
+nhx		7958		182766		15030
+gdn-x-bible
+gdn		7952		322850		9755
+bul-x-bible-modern
+bul		7897		194017		14856
+iba-x-bible
+iba		7941		211861		4141
+itv-x-bible
+itv		7958		272165		9096
+spa-x-bible-nuevadehoi
+spa		31173		856650		28250
+zpv-x-bible
+zpv		7958		277004		9978
+fra-x-bible-newworld
+fra		31157		983749		26740
+ngu-x-bible
+ngu		7958		210395		16223
+ktb-x-bible
+ktb		7958		133914		23431
+ace-x-bible
+ace		7958		245997		7810
+sag-x-bible
+sag		7958		300000		2185
+swp-x-bible
+swp		11743		298020		12476
+ykg-x-bible
+ykg		20		283		203
+lat-x-bible-vulgataclementina
+lat		35807		749492		51506
+pis-x-bible-newworld
+pis		7942		235769		2422
+tif-x-bible
+tif		7957		422528		18481
+ium-x-bible-latinnew
+ium		31173		1017225		7164
+spa-x-bible-reinavaleracontemporanea
+spa		31173		863086		28610
+sgb-x-bible
+sgb		7958		264178		8808
+mza-x-bible
+mza		7958		356252		4949
+amm-x-bible
+amm		7957		298930		12526
+dhm-x-bible
+dhm		7958		188073		12488
+deu-x-bible-freebible
+deu		31173		851027		26429
+cbt-x-bible
+cbt		7956		222608		20116
+lzh-x-bible-wenli-high
+lzh		7956		8093		8038
+pbi-x-bible
+pbi		7957		315507		6002
+grc-x-bible-accented
+grc		29015		595896		47779
+rim-x-bible
+rim		7958		179914		21702
+eka-x-bible
+eka		7958		248446		5714
+zho-x-bible-newworld
+zho		31157		790193		25977
+ukr-x-bible-1871
+ukr		7956		166055		18229
+agn-x-bible
+agn		7958		261279		10269
+mnx-x-bible
+mnx		7380		452356		7944
+eng-x-bible-darby
+eng		31170		913194		15526
+yrk-x-bible
+yrk		1829		35820		8693
+ngc-x-bible
+ngc		7949		182526		14586
+sna-x-bible-newworld
+sna		31157		639949		65958
+kbc-x-bible
+kbc		7958		224604		16354
+mau-x-bible
+mau		7958		272730		5978
+sja-x-bible
+sja		7956		223477		10651
+plw-x-bible
+plw		7958		235584		13695
+deu-x-bible-albrecht
+deu		7921		211448		12859
+tha-x-bible-newcontemporary
+tha		31157		962976		10507
+sbl-x-bible
+sbl		7958		261737		9845
+wnc-x-bible
+wnc		10486		322093		16368
+nld-x-bible-2007
+nld		7920		220556		8936
+guo-x-bible
+guo		7956		260384		19147
+nyy-x-bible
+nyy		7957		163360		23955
+bmh-x-bible
+bmh		7957		293834		5740
+por-x-bible-kingjames
+por		7958		191222		14111
+mbh-x-bible
+mbh		7957		337415		4330
+kwi-x-bible
+kwi		7956		208470		15866
+nri-x-bible
+nri		7958		170146		17240
+snn-x-bible-1982
+snn		7958		277608		11246
+msa-x-bible-leydekker
+msa		7957		215527		8749
+usp-x-bible
+usp		7958		255062		9386
+gqr-x-bible
+gqr		7958		254958		6255
+tlh-x-bible
+tlh		31154		890588		13408
+eng-x-bible-scriptures
+eng		7818		208751		6269
+xsi-x-bible
+xsi		10483		426964		4217
+xnn-x-bible
+xnn		7958		236922		13290
+quc-x-bible-westcentral
+quc		7958		314839		8562
+biu-x-bible
+biu		7958		233571		9687
+mya-x-bible-common
+mya		7603		75542		40011
+loz-x-bible
+loz		35443		1093873		16207
+zaw-x-bible
+zaw		7958		191660		17504
+nhd-x-bible-1913
+nhd		7955		185958		18754
+nwx-x-bible
+nwx		11401		228088		14721
+cav-x-bible
+cav		7958		294972		14725
+lef-x-bible
+lef		7958		231474		12356
+bci-x-bible
+bci		7958		249074		5010
+tsn-x-bible-1970
+tsn		7884		229600		8962
+tmd-x-bible
+tmd		7958		328333		5506
+mcd-x-bible
+mcd		7952		240968		21059
+nse-x-bible
+nse		7958		174454		18016
+gid-x-bible
+gid		7958		187746		15075
+shp-x-bible
+shp		9807		264422		21725
+gmv-x-bible-geez
+gmv		7707		143498		16342
+tiy-x-bible
+tiy		7957		256087		8692
+tam-x-bible-newworld
+tam		7938		147934		27673
+bqc-x-bible
+bqc		31170		664339		34351
+aoj-x-bible-filifita
+aoj		7958		251266		11464
+nnb-x-bible
+nnb		7957		153686		22525
+tat-x-bible
+tat		7947		164844		18937
+mvn-x-bible
+mvn		7958		273952		9820
+yam-x-bible
+yam		7958		308882		4645
+cpa-x-bible
+cpa		7958		214385		12660
+deu-x-bible-newworld
+deu		31157		957981		28393
+gnd-x-bible
+gnd		7942		424224		5433
+bkd-x-bible
+bkd		7958		224364		7764
+kqe-x-bible
+kqe		7958		270739		7186
+amr-x-bible
+amr		7956		186052		22129
+cbk-x-bible
+cbk		7958		312252		4009
+lmk-x-bible
+lmk		7957		219926		8997
+rmo-x-bible
+rmo		7958		273693		3996
+apu-x-bible
+apu		7958		208147		16912
+ifu-x-bible
+ifu		7954		266524		10174
+clu-x-bible
+clu		7958		249682		9830
+ruf-x-bible
+ruf		7959		164393		18103
+maj-x-bible
+maj		7957		216860		12159
+bnj-x-bible
+bnj		7944		265374		6666
+tuc-x-bible-patabuyaang
+tuc		7958		310196		5452
+ons-x-bible
+ons		7957		280332		11992
+guw-x-bible-newworld
+guw		7942		248238		4742
+ssd-x-bible
+ssd		11150		314547		9401
+gdg-x-bible
+gdg		7956		195152		18932
+mxp-x-bible
+mxp		7958		231273		25735
+toj-x-bible
+toj		7958		330828		10124
+noa-x-bible-2011
+noa		7958		313316		17209
+nca-x-bible
+nca		7942		221700		7484
+kpv-x-bible
+kpv		7929		151911		15543
+cak-x-bible-yepocapa
+cak		7958		325763		12244
+snc-x-bible
+snc		7958		230911		14358
+ton-x-bible-contemporary
+ton		7958		274536		6330
+sag-x-bible-newworld
+sag		7942		296380		2433
+kin-x-bible-2012
+kin		7911		149929		25179
+adl-x-bible
+adl		7957		241818		13499
+mig-x-bible
+mig		7958		215835		11087
+nyf-x-bible
+nyf		7958		199202		20312
+tcz-x-bible
+tcz		13138		255626		32463
+kaa-x-bible
+kaa		7943		166940		18689
+tum-x-bible
+tum		7953		183434		17233
+yut-x-bible
+yut		10471		296893		7932
+cak-x-bible-central2003
+cak		31173		1048594		27649
+omw-x-bible-aatasara
+omw		1557		46585		4585
+cko-x-bible
+cko		7955		312028		3201
+otn-x-bible
+otn		7958		299939		9969
+lin-x-bible-newworld
+lin		31157		942765		19281
+mpg-x-bible
+mpg		7958		233399		6922
+dan-x-bible-frederik
+dan		7957		193464		10473
+zar-x-bible
+zar		7958		242132		11721
+cor-x-bible
+cor		7958		195507		9087
+uig-x-bible-cyrillic
+uyg		10703		233823		27683
+guj-x-bible
+guj		31166		814058		43897
+cax-x-bible-2002
+cax		7957		179328		9762
+inb-x-bible
+inb		7958		200715		18012
+tha-x-bible-kjv
+tha		31173		1045145		9628
+jvn-x-bible
+jvn		7956		237198		6735
+qug-x-bible-chimborazo
+quc		7929		159193		20008
+gkp-x-bible
+gkp		31173		910473		30185
+bnp-x-bible
+bnp		14595		526549		4682
+tuk-x-bible-mukaddes
+tuk		31165		632256		59073
+chr-x-bible
+chr		7958		144133		25707
+kmk-x-bible
+kmk		7958		215629		13935
+uig-x-bible-arabic
+uig		7953		177673		21378
+top-x-bible
+top		7957		192666		18501
+sny-x-bible
+sny		7959		406519		4168
+kub-x-bible
+kub		7941		302516		4828
+oym-x-bible
+oym		7958		364856		13262
+cac-x-bible-sansebastian
+cac		7958		304420		7658
+pma-x-bible
+pma		7920		268958		9311
+kat-x-bible-revised
+kat		7957		140719		21565
+afr-x-bible-boodskap
+afr		7757		327081		8305
+mks-x-bible
+mks		7958		335568		3848
+hns-x-bible
+hns		7958		236699		4959
+mri-x-bible
+mri		31173		1120421		9178
+amh-x-bible
+amh		7656		117699		24754
+xon-x-bible-likoonli
+xon		7958		258620		4268
+pbl-x-bible
+pbl		7935		222046		10324
+srm-x-bible
+srm		7957		412725		2610
+duo-x-bible
+duo		7954		312399		9671
+myy-x-bible
+myy		7958		299952		12320
+tnc-x-bible
+tnc		3236		98348		13946
+fin-x-bible-newworld
+fin		31157		712586		57682
+quy-x-bible
+quy		31173		582628		89930
+nwb-x-bible
+nwb		7958		340574		8387
+mgc-x-bible
+mgc		3847		106619		3138
+swh-x-bible-union1997
+swh		7574		153081		17103
+yua-x-bible-newworld
+yua		7942		238854		12484
+bud-x-bible
+bud		7958		221899		11130
+bzi-x-bible
+bzi		7958		276231		5097
+enm-x-bible-bishop
+enm		7958		213655		7835
+kan-x-bible-newworld
+kan		7942		137790		28480
+zho-x-bible-contemp
+zho		31172		689452		26930
+not-x-bible
+not		7958		180863		23403
+xbi-x-bible-wampukuamp
+xbi		2377		91482		3218
+mib-x-bible
+mib		7958		294548		4277
+grc-x-bible-textusreceptusVAR2
+grc		7955		140769		17258
+bmr-x-bible
+bmr		7956		150544		22706
+ita-x-bible-newworld
+ita		31157		898250		29600
+pag-x-bible-newworld
+pag		7942		219242		9665
+otq-x-bible
+otq		7958		224418		8854
+pol-x-bible-gdansknew
+pol		7958		168392		16988
+xed-x-bible
+xed		7958		266410		9329
+bth-x-bible
+bth		7849		210681		4260
+adi-x-bible
+adi		7944		163152		19588
+mpx-x-bible
+mpx		8829		270649		6698
+wat-x-bible
+wat		2665		70144		5555
+zam-x-bible
+zam		7958		441759		7756
+lgm-x-bible
+lgm		7958		159117		16182
+bwu-x-bible
+bwu		7958		314334		3885
+mnb-x-bible
+mnb		7958		177404		17147
+agt-x-bible
+agt		7958		292040		8628
+too-x-bible
+too		7958		198325		17109
+ald-x-bible
+ald		7958		261801		7746
+nus-x-bible
+nus		7958		223511		6405
+rmy-x-bible-chilean
+rmy		7958		208617		6380
+mse-x-bible
+mse		7958		215868		7505
+bjr-x-bible
+bjr		10706		301623		29602
+qwh-x-bible
+qwh		7958		163419		28844
+gor-x-bible
+gor		7903		224084		13597
+tkr-x-bible
+tkr		915		11861		4461
+qug-x-bible-chimborazo2010
+quc		7954		176890		21618
+slk-x-bible-newworld
+slk		31157		785066		46207
+nhd-x-bible-2006
+nhd		7958		172888		13838
+zpz-x-bible
+zpz		7958		319513		4661
+mda-x-bible
+mda		7958		340614		2554
+tel-x-bible
+tel		31163		708486		78382
+afr-x-bible-viralmal
+afr		7873		286507		4292
+syb-x-bible
+syb		7729		252573		11339
+yss-x-bible-yawu
+yss		7957		286563		5649
+lav-x-bible-1997
+lav		7955		170303		15978
+taq-x-bible
+taq		7958		174638		27248
+por-x-bible-linguagemdehoje
+por		7957		221506		9347
+khz-x-bible
+khz		7958		215116		14287
+nmz-x-bible
+nmz		7958		235555		9427
+dgz-x-bible
+dgz		7954		244867		8581
+mkl-x-bible
+mkl		7958		255153		4722
+mca-x-bible
+mca		7958		241117		16401
+dow-x-bible
+dow		7958		228167		10015
+tbl-x-bible
+tbl		7822		298029		6902
+shu-x-bible
+shu		7957		188611		13509
+epo-x-bible
+epo		31173		811375		29156
+csy-x-bible
+csy		31167		956295		15882
+kan-x-bible-latin
+kan		7942		157562		28636
+iri-x-bible
+iri		7958		271423		2934
+zos-x-bible
+zos		7958		211653		22259
+sur-x-bible
+sur		7958		296269		3731
+nng-x-bible
+nng		7958		187285		23696
+quf-x-bible
+quf		7957		200444		25321
+kdj-x-bible
+kdj		7958		194683		14700
+kor-x-bible-newworld1999
+kor		31161		665169		58189
+cas-x-bible
+cas		7949		253687		12828
+etr-x-bible
+etr		3204		92512		7213
+pan-x-bible
+pan		7943		262255		9173
+hil-x-bible
+hil		7957		233383		9700
+bcl-x-bible
+bcl		7957		210553		9767
+njz-x-bible
+njz		7958		207355		13952
+ztq-x-bible
+ztq		7950		209853		7309
+kaz-x-bible-newworld1984
+kaz		7942		156622		21609
+med-x-bible
+med		7958		344362		4458
+aze-x-bible
+aze		31159		602499		52563
+kin-x-bible-newworld
+kin		31157		667618		66180
+ssw-x-bible
+ssw		31173		589955		95950
+pua-x-bible
+pua		7798		156235		21153
+kin-x-bible-2001
+kin		31173		615095		72109
+zsm-x-bible-goodnews
+zsm		7785		198045		7488
+zpl-x-bible
+zpl		7958		240897		9582
+kor-x-bible-new
+kor		7612		156385		21333
+xbr-x-bible
+xbr		7331		203382		20877
+ukr-x-bible-2007
+ukr		7415		178319		17783
+nob-x-bible-1930
+nob		31173		820634		20441
+mbd-x-bible
+mbd		7958		280146		13287
+avu-x-bible
+avu		7950		427607		4493
+kjb-x-bible
+kjb		31157		1089233		15117
+mit-x-bible
+mit		7957		268272		12108
+nyu-x-bible
+nyu		1980		40297		7615
+guc-x-bible
+guc		7957		249822		18830
+hlt-x-bible
+hlt		7957		262334		6102
+isl-x-bible
+isl		7863		186047		14056
+mfy-x-bible
+mfy		7958		201213		19089
+tgl-x-bible-newworld
+tgl		31157		1031369		23493
+nnq-x-bible
+nnq		7958		164605		21119
+bqp-x-bible
+bqp		7955		186006		9806
+cnh-x-bible
+cnh		31172		1038596		13398
+cso-x-bible
+cso		7958		305594		7443
+blw-x-bible
+blw		7954		272778		15891
+tbz-x-bible
+tbz		31173		774194		23476
+bum-x-bible
+bum		31173		931735		15365
+mzm-x-bible
+mzm		7958		306475		2735
+leu-x-bible
+leu		7959		270324		3823
+ivb-x-bible
+ivb		7958		280993		12311
+eng-x-bible-godsword
+eng		7943		208877		6652
+ike-x-bible
+iku		31172		451475		126580
+nno-x-bible-student
+nno		31173		824478		25220
+kmh-x-bible-minimib
+kmh		7956		339643		3688
+tpp-x-bible
+tpp		7958		192400		22638
+qup-x-bible
+qup		7954		205191		21720
+kzf-x-bible
+kzf		6900		198646		7462
+mog-x-bible
+mog		7917		245357		12455
+niq-x-bible
+niq		7958		177150		13057
+tso-x-bible-1929
+tso		7958		225729		8025
+haw-x-bible
+haw		6805		242664		3359
+gnw-x-bible
+gnw		7958		232268		6879
+qvm-x-bible
+qvm		7958		158096		22534
+kac-x-bible-hanson
+kac		31162		1193016		9307
+hat-x-bible-1985
+hat		31173		1057748		8871
+jac-x-bible
+jac		7958		257368		12935
+ppo-x-bible
+ppo		7942		298486		10141
+ven-x-bible
+ven		31168		889422		18021
+tvk-x-bible-ebible
+k		7905		209469		7398
+izr-x-bible
+izr		7958		239217		4341
+boj-x-bible
+boj		7954		301250		11409
+lhi-x-bible
+lhi		7943		415183		1903
+maf-x-bible
+maf		7954		230114		5876
+ngp-x-bible
+ngp		7958		176620		19522
+mwq-x-bible
+mwq		7955		307763		6102
+kbp-x-bible
+kbp		7958		205795		15065
+ify-x-bible
+ify		31167		879169		27663
+cly-x-bible
+cly		7958		260943		3101
+grc-x-bible-textusreceptusVAR1
+grc		7954		140701		17266
+sab-x-bible
+sab		7957		448264		4322
+cuc-x-bible
+cuc		7958		195659		12645
+azz-x-bible
+azz		7958		297571		22033
+grc-x-bible-ecumenical
+grc		7955		162819		19684
+kpz-x-bible
+kpz		7957		195950		15122
+bak-x-bible
+bak		7957		166900		19951
+mnk-x-bible
+mnk		7951		259748		4936
+chd-x-bible
+chd		7957		219584		21263
+zad-x-bible
+zad		7958		209740		13819
+tgk-x-bible
+tgk		7958		194635		14578
+dww-x-bible
+dww		7953		235518		8175
+kxw-x-bible
+kxw		7958		277627		7756
+obo-x-bible
+obo		7699		282088		5994
+tur-x-bible-2009
+tur		31173		566920		58933
+poy-x-bible
+poy		7958		174652		18651
+kik-x-bible-newworld
+kik		7918		186048		17926
+lug-x-bible-contemporary
+lug		7958		157829		23658
+aze-x-bible-latin
+aze		31173		602774		52588
+kos-x-bible
+kos		12440		374894		8256
+pag-x-bible
+pag		7940		206816		11570
+ind-x-bible-terjemahanlama
+ind		7958		203886		8094
+mqb-x-bible
+mqb		7957		350244		3538
+kdc-x-bible
+kdc		7958		168325		15650
+mhx-x-bible
+mhx		7953		310899		4907
+cnw-x-bible
+cnw		7947		252098		10685
+ceg-x-bible
+ceg		7958		259170		6381
+blh-x-bible
+blh		7950		290528		4737
+dyi-x-bible
+dyi		7958		306695		3572
+hne-x-bible
+hne		7958		236234		6848
+atd-x-bible
+atd		7957		323540		9381
+khs-x-bible
+khs		7958		283139		11712
+lbj-x-bible
+lbj		7222		165021		12818
+deu-x-bible-bolsinger
+deu		31173		810727		22787
+spa-x-bible-nuevaviviente
+spa		31157		879795		29134
+yaa-x-bible
+yaa		7955		253253		18657
+gyr-x-bible-1985
+gyr		7958		218241		9944
+nin-x-bible
+nin		7697		290080		2534
+apy-x-bible
+apy		7958		249423		11697
+mox-x-bible
+mox		7953		243644		9633
+gso-x-bible
+gso		7957		265411		3490
+eng-x-bible-newworld2013
+eng		31133		905108		16002
+ctp-x-bible
+ctp		7958		411026		2923
+tee-x-bible
+tee		7958		261480		18514
+tzo-x-bible-chenalho
+tzo		7958		275446		10854
+por-x-bible-versaofacil
+por		7891		217562		10732
+ttq-x-bible
+ttq		2767		65532		10079
+kvj-x-bible
+kvj		7958		245826		5383
+mck-x-bible
+mck		31173		743271		44255
+war-x-bible-newworld
+war		7942		216646		8894
+cnt-x-bible
+cnt		7948		246529		13649
+por-x-bible-almeidaatualizada
+por		31173		827965		31784
+quc-x-bible-cantel
+quc		7958		315384		8245
+kyg-x-bible
+kyg		9743		257108		18152
+run-x-bible-newworld
+run		31157		722489		68362
+hif-x-bible
+hif		7950		232406		5390
+asg-x-bible
+asg		7958		303356		4048
+pad-x-bible
+pad		7957		274866		21278
+zho-x-bible-orthodox
+zho		10007		175781		19339
+ewe-x-bible
+ewe		7958		246461		11216
+hak-x-bible
+hak		7909		199486		8065
+apz-x-bible
+apz		7958		254355		19818
+nim-x-bible
+nim		7957		145262		23001
+cha-x-bible-2010
+cha		7312		157191		12034
+tdt-x-bible-newworld
+tdt		7942		225104		2593
+mva-x-bible
+mva		7958		243341		14558
+atg-x-bible
+atg		7859		256303		4369
+pps-x-bible
+pps		7958		222639		8440
+tgl-x-bible-1905
+tgl		31173		945593		26402
+tuc-x-bible-patabuang
+tuc		7958		307683		5163
+mnh-x-bible
+mnh		7950		334745		4311
+nuy-x-bible
+nuy		8378		243118		22774
+aln-x-bible
+aln		31173		872086		31930
+qxo-x-bible
+qxo		7955		165845		27805
+nlc-x-bible
+nlc		7874		288458		15568
+mos-x-bible-catholic
+mos		7958		215410		10596
+plg-x-bible
+plg		7583		231217		13410
+bxr-x-bible
+bxr		7824		175374		20758
+eng-x-bible-montgomery
+eng		7941		213947		8596
+afr-x-bible-1983
+afr		7905		224789		7636
+mih-x-bible
+mih		7958		304450		2742
+tzo-x-bible-chamula
+tzc		7958		277008		11187
+sil-x-bible
+sil		7958		273375		5159
+jav-x-bible-1981
+jav		31160		843929		31541
+mto-x-bible
+mto		7958		266174		18751
+kan-x-bible
+kan		7942		157581		28637
+acr-x-bible-traditional
+acr		7958		273991		8898
+mfe-x-bible
+mfe		7957		201413		5150
+ksd-x-bible
+ksd		7958		258151		3196
+gle-x-bible
+gle		34953		980084		32265
+caf-x-bible
+caf		7958		234842		17421
+njo-x-bible
+njo		7958		172280		10879
+cjv-x-bible
+cjv		7955		317803		5791
+jav-x-bible-1994
+jav		31173		778880		26871
+dob-x-bible
+dob		7938		205832		10524
+nsu-x-bible
+nsu		7958		200507		13626
+tby-x-bible
+tby		7958		244157		15202
+tzj-x-bible-western
+tzj		7958		314512		10174
+neb-x-bible
+neb		7958		377263		10442
+dyu-x-bible
+dyu		7958		241596		4855
+tuo-x-bible-2004
+tuo		7958		227391		17350
+pol-x-bible-covenant
+pol		7956		172172		20757
+fuq-x-bible
+fuq		7958		185486		12105
+crn-x-bible-nayar
+crn		7956		330756		13672
+nph-x-bible
+nph		7958		167574		12167
+deu-x-bible-interlinear
+deu		7946		189218		11600
+nmo-x-bible
+nmo		7955		168383		19656
+rus-x-bible-slovozhizny2006
+rus		7810		174600		17812
+qvn-x-bible
+qvn		7951		171876		28360
+fra-x-bible-segond21
+fra		7958		209214		11909
+due-x-bible
+due		7958		265389		6746
+ape-x-bible
+ape		7958		305611		16292
+ces-x-bible-novakarlica
+ces		7958		179889		16681
+lat-x-bible-novavulgata
+lat		35782		749677		51616
+kze-x-bible
+kze		7956		146553		23780
+quh-x-bible-1993
+quh		31173		615826		77483
+efi-x-bible-newworld
+efi		31157		846867		16918
+cle-x-bible
+cle		7958		242393		9223
+zpo-x-bible
+zpo		7958		258374		4679
+lhu-x-bible
+lhu		7947		381935		1921
+maz-x-bible
+maz		7958		329721		7914
+mwm-x-bible
+mwm		31173		1147181		15447
+kma-x-bible
+kma		7957		257346		4771
+fra-x-bible-ostervald1867
+fra		31173		910573		27132
+cop-x-bible-bohairic
+cop		7952		129598		22306
+uzb-x-bible-newworld
+uzb		7942		162302		21447
+gog-x-bible
+gog		7957		210590		17658
+alq-x-bible
+alq		7958		234388		18849
+kpf-x-bible
+kpf		7953		200356		9759
+bbj-x-bible
+bbj		7958		231819		5479
+dnj-x-bible-eastern
+dnj		7958		382605		3556
+tpi-x-bible-newworld
+tpi		7942		279879		2063
+mpm-x-bible
+mpm		7956		378630		2818
+tuk-x-bible-injil
+tuk		7957		148685		21455
+mfz-x-bible
+mfz		7958		276497		8957
+xal-x-bible
+xal		7943		164665		17028
+deu-x-bible-reinhardt1910
+deu		3777		94504		6150
+zsr-x-bible
+zsr		7958		234088		11580
+poe-x-bible
+poe		7958		243928		10146
+nrf-x-bible
+nrf		1071		30147		3662
+wsk-x-bible
+wsk		13230		404936		7004
+kwf-x-bible
+kwf		7943		335569		3974
+mtp-x-bible
+mtp		7956		219122		18753
+kaq-x-bible
+kaq		7958		195392		18077
+gaa-x-bible-newworld
+gaa		7918		225214		10582
+iqw-x-bible
+iqw		7958		285209		14034
+eng-x-bible-newsimplified
+eng		31151		837738		16599
+aby-x-bible
+aby		7957		247123		10756
+noa-x-bible-1988
+noa		7958		313388		17199
+khy-x-bible
+khy		7922		176577		19085
+aii-x-bible
+aii		10486		192148		17197
+tar-x-bible
+tar		7958		334940		7734
+lip-x-bible
+lip		7958		244892		11372
+spy-x-bible-2011
+spy		7639		177417		18864
+hye-x-bible-latin
+hye		7952		167928		16294
+srq-x-bible
+srq		7958		275007		7624
+jpn-x-bible-newworld
+jpn		31170		147161		65745
+mor-x-bible
+mor		7958		169962		15229
+gnb-x-bible
+gnb		7958		260471		7860
+kqc-x-bible
+kqc		5223		149741		3182
+ind-x-bible-terjemahanbaru
+ind		31173		779423		21173
+teo-x-bible
+teo		7805		146851		17270
+ron-x-bible-2006
+ron		7958		198656		11387
+pam-x-bible
+pam		7958		223503		9746
+spa-x-bible-nuevointernacional
+spa		31157		830974		30497
+bco-x-bible
+bco		1651		47882		5074
+aey-x-bible
+aey		9477		272658		14894
+kdi-x-bible
+kdi		7958		226051		6521
+zsm-x-bible-todaysmalay
+zsm		7957		201602		7552
+tfr-x-bible
+tfr		7942		269705		5050
+vie-x-bible-bandich
+vie		7956		251561		3930
+tzo-x-bible-1997
+tzo		7847		240855		11488
+tvk-x-bible-inscript
+tvk		8091		328374		7537
+mhr-x-bible
+mhr		7958		159481		15264
+bgr-x-bible
+bgr		7956		247628		4831
+gbr-x-bible
+gbr		7958		234174		8976
+mcb-x-bible
+mcb		7957		162013		26300
+tbo-x-bible
+tbo		7953		218451		7863
+kez-x-bible
+kez		7957		204550		12371
+aoz-x-bible
+aoz		7958		224838		6147
+nvm-x-bible
+nvm		7952		298232		9812
+kor-x-bible-revised
+kor		30803		471573		62863
+aze-x-bible-newworld
+aze		31147		603006		55015
+pes-x-bible-newworld
+pes		7914		231571		10199
+knj-x-bible
+knj		7958		344594		5038
+adj-x-bible
+adj		7955		267190		6382
+fra-x-bible-perret
+fra		31173		864521		31978
+dng-x-bible
+dng		915		13458		2805
+bmq-x-bible
+bmq		7958		237537		6124
+swe-x-bible-newworld
+swe		31157		888326		24685
+pdc-x-bible
+pnc		7958		226616		5731
+con-x-bible
+con		7958		180166		14515
+hla-x-bible
+hla		7957		319010		6374
+ktm-x-bible
+ktm		2472		78019		4961
+mal-x-bible
+mal		7955		110027		27973
+cgc-x-bible
+cgc		7958		314206		8199
+sah-x-bible
+sah		10484		190965		25905
+spa-x-bible-americas
+spa		31172		843110		28354
+ixl-x-bible-nebaj
+ixl		7958		328179		7574
+dig-x-bible
+dig		7954		179213		18448
+meq-x-bible
+meq		7950		339307		4662
+sun-x-bible-formal
+sun		7958		205974		14310
+mam-x-bible-southern
+mam		7958		188291		16701
+cui-x-bible
+cui		7956		338019		14885
+nhw-x-bible
+nhw		7958		223570		14380
+mna-x-bible
+mna		13855		478303		7580
+agw-x-bible
+agw		37090		1284712		14289
+srn-x-bible
+srn		7958		263464		2361
+bvz-x-bible
+bvz		7956		571630		9789
+eng-x-bible-lexham
+eng		7942		216476		7060
+bel-x-bible-semukha
+bel		7957		164584		16938
+amk-x-bible
+amk		7958		264405		11110
+hun-x-bible-2003
+hun		7952		168538		21562
+kgk-x-bible
+kgk		7958		304755		16192
+tsg-x-bible
+tsg		7958		310035		9842
+cbr-x-bible
+cbr		7958		266895		13610
+cym-x-bible-revised2004
+cym		7929		206820		11271
+nmf-x-bible
+nmf		31173		604280		55246
+kua-x-bible
+kua		31173		749175		36854
+afr-x-bible-newworld
+afr		31157		977691		16939
+ilo-x-bible
+ilo		31173		860401		47475
+lit-x-bible-tikejimozodis
+lit		31173		591183		49985
+fra-x-bible-semeur
+fra		7922		226967		13526
+bzj-x-bible
+bzj		7773		263822		3363
+old-x-bible
+old		7958		170517		26805
+shi-x-bible
+shi		7958		132803		23215
+zho-x-bible-standard
+zho		7958		203196		8903
+kyq-x-bible
+kyq		7954		283684		8181
+bug-x-bible
+bug		7864		191315		16466
+mlp-x-bible
+mlp		7953		303794		8200
+ons-x-bible-revised
+ons		7957		283656		12566
+anv-x-bible
+anv		7958		245703		11454
+quz-x-bible
+quz		31173		565740		82943
+tpz-x-bible
+tpz		7945		396660		2860
+nav-x-bible
+nav		31173		733237		62098
+lzh-x-bible-wenli-easy
+lzh		7948		8219		8181
+cao-x-bible
+cao		7952		266744		13692
+tcc-x-bible
+tcc		7957		161155		18850
+faa-x-bible
+faa		7958		274517		11575
+omw-x-bible
+omw		7958		274505		12449
+hus-x-bible-sanluispotosi
+hva		7958		286577		8007
+prk-x-bible
+prk		7958		275181		2574
+xho-x-bible-1996
+xho		30102		578012		96061
+nno-x-bible-2011
+nno		7491		190232		7646
+kjh-x-bible
+kjh		7870		162686		19153
+gui-x-bible
+gui		7958		232672		6329
+khm-x-bible-newworld
+khm		7942		50334		26747
+dje-x-bible
+dje		7924		228914		4734
+ksr-x-bible
+ksr		9618		306491		17082
+bis-x-bible
+bis		7946		362055		2118
+otm-x-bible
+otm		7958		293187		7890
+ind-x-bible-firman
+ind		7559		207567		9581
+btt-x-bible
+btt		7958		288972		4019
+bbc-x-bible
+bbc		7958		203544		10274
+arb-x-bible
+ara		31174		473414		59456
+men-x-bible
+men		7958		238969		9598
+msy-x-bible
+msy		7942		260395		8918
+eng-x-bible-standard
+eng		7537		191182		6761
+chq-x-bible
+chq		7958		229489		14822
+tos-x-bible
+tos		7956		257304		24383
+rus-x-bible-centralasian
+rus		7915		180446		18066
+xho-x-bible-newworld
+xho		31157		629716		84524
+vie-x-bible-1926nocompounds
+vie		31170		959996		8060
+acu-x-bible
+acu		7958		216536		19733
+mjc-x-bible
+mjc		7958		325037		3133
+msc-x-bible
+msc		1790		60084		2501
+got-x-bible
+got		3967		73662		9285
+trn-x-bible
+trn		7958		193079		20150
+cul-x-bible
+cul		7958		267741		19433
+pon-x-bible-new
+pon		10482		247222		6864
+ssg-x-bible
+ssg		7958		240633		5557
+chk-x-bible
+chk		31172		908443		14431
+agr-x-bible
+agr		7957		184883		25519
+eng-x-bible-newliving
+eng		7900		215431		7649
+toi-x-bible
+toi		7957		134692		26996
+nhr-x-bible
+nhr		7955		276577		6465
+kmr-x-bible
+kmr		7906		204606		9138
+mai-x-bible
+mai		7955		254475		8472
+eng-x-bible-riverside
+eng		7929		199695		7532
+tir-x-bible-newworld
+tir		7942		151830		20622
+ton-x-bible-moulton
+on		31164		1094534		10769
+bsn-x-bible
+bsn		7956		293923		18091
+gvn-x-bible
+gvn		11075		266778		11499
+kab-x-bible
+kab		7936		180963		18084
+kor-x-bible-newworld2014
+kor		29819		584921		54568
+akb-x-bible
+akb		7958		250448		10570
+mbt-x-bible
+mbt		7942		249466		8891
+tuk-x-bible-cyrillic
+tuk		7957		148542		21540
+yuw-x-bible
+yuw		7953		267689		13477
+cok-x-bible
+cok		7953		333065		12207
+bfd-x-bible
+bfd		7958		308468		10142
+bps-x-bible
+bps		7892		248914		7714
+mfi-x-bible
+mfi		7958		294336		11262
+war-x-bible
+war		7956		233106		11215
+fra-x-bible-pirotclamer
+fra		31173		850000		31333
+nko-x-bible
+nko		7958		202237		11805
+kno-x-bible
+kno		7942		405731		2572
+xsu-x-bible
+xsu		7958		492569		8400
+lwo-x-bible
+lwo		7956		283654		7473
+kik-x-bible-2007
+kik		35377		850261		69728
+wol-x-bible
+wol		7944		207873		7515
+ell-x-bible-modern2009
+ell		31173		817404		39116
+wrk-x-bible
+wrk		5268		280956		5453
+pne-x-bible
+pne		7851		259806		3198
+ium-x-bible-latin
+ium		7667		258247		2210
+sqi-x-bible
+sqi		7958		206310		13154
+cap-x-bible-1978
+cap		7958		226815		19977
+lee-x-bible
+lee		7958		286158		3669
+pah-x-bible
+pah		7952		322551		17756
+maa-x-bible-sanjeronimo
+maa		7958		232020		15259
+slk-x-bible-standard
+slk		35609		762656		56021
+mya-x-bible-1835
+mya		30997		494685		119697
+kdl-x-bible
+kdl		7864		278865		4070
+jmc-x-bible
+jmc		7958		174284		21933
+nia-x-bible
+nia		7958		212636		10130
+kqf-x-bible
+kqf		673		17667		2110
+hag-x-bible
+hag		7942		238538		3549
+nbq-x-bible
+nbq		3854		149769		7370
+gng-x-bible
+gng		7756		261587		6508
+cme-x-bible
+cme		7957		227163		9021
+prs-x-bible-todays
+prs		7957		210755		8204
+ind-x-bible-easy2005
+ind		7850		197247		7930
+hnj-x-bible
+hnj		7958		294891		2244
+taw-x-bible
+taw		7942		305360		4670
+deu-x-bible-lebendig
+deu		7817		219020		11146
+xbi-x-bible-yanimoi
+xbi		2363		89869		3524
+pmx-x-bible
+pmx		7957		197804		14489
+yan-x-bible
+yan		31157		886370		22014
+cpb-x-bible
+cpb		7958		147052		26632
+fub-x-bible
+fub		7909		178569		9629
+mav-x-bible
+mav		7958		422876		11372
+rus-x-bible-kulakov
+rus		7926		185075		19959
+hra-x-bible
+hra		31173		849744		23855
+zpc-x-bible
+zpc		7958		243753		14338
+afr-x-bible-1953
+afr		31169		903769		16607
+hun-x-bible-2012
+hun		7811		199805		21312
+bef-x-bible
+bef		7955		256417		15696
+qul-x-bible-1985
+qul		7958		138284		23490
+trq-x-bible
+trq		7958		335071		3656
+wbp-x-bible
+wbp		10805		332401		32145
+mek-x-bible
+mek		7924		268493		9917
+kpj-x-bible
+kpj		7956		161080		22698
+eve-x-bible
+eve		1151		21066		6138
+tzh-x-bible-oxchuc
+tzh		7741		256456		10578
+ssx-x-bible
+ssx		9487		283426		11672
+kmm-x-bible
+kmm		31172		792836		31401
+agm-x-bible
+agm		7957		284396		36839
+glv-x-bible
+glv		3994		108630		4861
+biv-x-bible
+biv		7943		258772		3765
+ksw-x-bible
+ksw		30710		285240		126090
+bcc-x-bible-latin
+bcc		878		20738		2912
+zat-x-bible
+zat		7958		235025		9733
+kac-x-bible-common
+kac		31171		1343701		7344
+ldi-x-bible
+ldi		7951		195478		16008
+kwj-x-bible
+kwj		7957		319087		5843
+ces-x-bible-living
+ces		7952		167103		21742
+bmk-x-bible
+bmk		673		18011		2348
+poi-x-bible
+poi		7958		211886		13343
+crs-x-bible
+crs		31173		840387		10050
+cac-x-bible-ixtatan
+cac		31159		1041368		20056
+fad-x-bible
+fad		1151		31420		3282
+fij-x-bible-1974
+fij		7917		256404		4009
+ayr-x-bible-1997
+aym		31173		628891		102167
+cot-x-bible
+cot		7958		162783		34381
+gul-x-bible
+gul		7955		289662		2623
+lsm-x-bible
+lsm		7948		187839		23789
+cha-x-bible-2003
+cha		7925		221464		12441
+ell-x-bible-unidentified
+ell		7776		208159		16400
+nas-x-bible
+nas		8096		177694		26231
+eng-x-bible-basic
+eng		7942		227716		3097
+suk-x-bible
+suk		7958		199363		18302
+awi-x-bible
+awi		7922		232040		9809
+wos-x-bible
+wos		7816		301270		7173
+ukr-x-bible-1962
+ukr		31131		731011		47317
+ita-x-bible-diodati
+ita		31173		903122		29136
+eng-x-bible-literal
+eng		31173		895617		14218
+dgc-x-bible
+dgc		7953		269693		8326
+att-x-bible
+att		7958		329303		9097
+ita-x-bible-2009
+ita		35377		869057		37678
+kud-x-bible
+kud		7951		192211		13149
+byr-x-bible
+byr		9242		236815		34013
+gug-x-bible-newworld
+gug		6400		133247		11985
+yaq-x-bible
+yaq		7957		298082		14994
+esk-x-bible
+esk		7958		116707		38092
+moh-x-bible
+moh		879		18279		4417
+amn-x-bible
+amn		7954		232662		15791
+kqy-x-bible
+kqy		7957		180287		16225
+mkd-x-bible-2004
+mkd		7958		184609		13500
+knf-x-bible
+knf		9491		229799		15071
+eng-x-bible-etheridge
+eng		7943		215422		7153
+sps-x-bible
+sps		8243		363499		3755
+zab-x-bible
+zab		7958		209667		13817
+pkb-x-bible
+pkb		7947		196813		20007
+guz-x-bible
+guz		7937		142254		20397
+xav-x-bible
+xav		7950		516917		7912
+urd-x-bible-revised2010
+urd		7850		204981		8090
+gyr-x-bible-urubicha
+gyr		7916		204049		10278
+stn-x-bible
+stn		7945		294588		6020
+alt-x-bible-southern
+alt		7957		151515		17000
+mtj-x-bible
+mtj		7958		359343		4311
+hop-x-bible
+hop		7886		185849		18152
+acf-x-bible
+acf		7957		251604		4565
+ubr-x-bible
+ubr		9485		290682		11374
+imo-x-bible
+imo		7957		298996		8507
+zpu-x-bible
+zpu		7958		242790		11610
+plt-x-bible-newworld
+plt		8880		251636		13056
+mww-x-bible
+mww		7958		293573		2407
+bam-x-bible
+bam		7948		232316		4371
+sey-x-bible
+sey		7958		201311		12151
+ces-x-bible-preklad
+ces		7958		168988		17534
+dik-x-bible
+dik		7956		226863		5392
+twi-x-bible
+twi		7958		209093		9951
+poh-x-bible-western
+poh		7958		473955		9854
+atb-x-bible
+atb		7958		340295		4126
+ign-x-bible-2004
+ign		7954		228332		32410
+xuo-x-bible
+xuo		7958		341037		3869
+knv-x-bible-fly
+v		7958		281781		16981
+gnn-x-bible
+gnn		15787		539328		25135
+amx-x-bible
+amx		2037		57008		5772
+kqo-x-bible
+kqo		7958		313576		7513
+bul-x-bible-newworld
+bul		31173		831089		31495
+enm-x-bible-geneva
+enm		7958		213167		7259
+oss-x-bible-newworld
+oss		31173		792349		30405
+kde-x-bible
+kde		7958		154432		22330
+tpi-x-bible
+tpi		31157		1285938		4646
+bcc-x-bible
+bcc		878		20913		2774
+aeu-x-bible
+aeu		7958		346085		3858
+sgw-x-bible
+sgw		7958		123251		24841
+tbc-x-bible
+tbc		7946		313569		5794
+cat-x-bible-evangelica
+cat		7995		202217		14364
+mcn-x-bible
+mcn		31173		874383		19538
+muy-x-bible
+muy		7958		301034		9693
+tso-x-bible-1989
+tso		7841		236651		8009
+dyo-x-bible
+dyo		7958		187218		19101
+cop-x-bible-sahidic
+cop		7931		132533		22933
+nnh-x-bible
+nnh		7781		278193		6277
+quc-x-bible-1995
+quc		7766		234229		9443
+sxn-x-bible-sangir
+sxn		7893		230426		12724
+ded-x-bible
+ded		10484		235301		18182
+mir-x-bible
+mir		7956		227542		19429
+ubu-x-bible-kala
+ubu		7956		364280		9272
+rus-x-bible-churchslavonic
+rus		7957		153931		17779
+hun-x-bible-2005
+hun		31173		677099		62591
+yua-x-bible
+yua		22798		708067		27028
+zho-x-bible-new
+zho		31133		795359		24969
+kat-x-bible
+kat		4894		93555		11831
+hin-x-bible-bsi
+hin		31173		894151		18193
+bmb-x-bible
+bmb		7942		198122		12882
+mbb-x-bible
+mbb		7958		303895		9650
+mmo-x-bible
+mmo		7958		258613		7059
+btx-x-bible
+btx		7913		212337		9293
+tlb-x-bible
+tlb		7958		239806		17317
+ady-x-bible
+ady		4875		100736		24171
+arn-x-bible
+arn		7958		226063		17553
+spl-x-bible
+spl		7972		272505		11011
+msa-x-bible-klinkert
+msa		7958		195700		8363
+ell-x-bible-newworld
+ell		31173		915684		33479
+smk-x-bible
+smk		7371		247956		10456
+aoi-x-bible
+aoi		3986		121610		15197
+mph-x-bible
+mph		676		25500		2715
+agd-x-bible
+agd		7943		260631		11936
+gdr-x-bible
+gdr		7946		307375		9899
+bar-x-bible
+bar		31159		837961		33827
+dts-x-bible
+dts		7958		249164		8893
+ffm-x-bible
+ffm		7958		185021		14136
+yue-x-bible-newworld
+yue		31083		286183		105469
+alt-x-bible
+alt		7958		155568		17199
+fij-x-bible-newworld
+fij		31133		962919		9606
+dan-x-bible-newworld
+dan		31157		887238		23296
+nct-x-bible
+nct		7957		229885		11266
+wmt-x-bible
+wmt		3384		66548		9054
+snn-x-bible-2009
+snn		7497		311751		13459
+npl-x-bible-unidentified
+npl		7954		184921		16001
+nhx-x-bible-revised
+nhx		7958		182791		15059
+bxh-x-bible
+bxh		4282		118906		5748
+pis-x-bible
+pis		29226		1116411		5704
+eng-x-bible-amplified
+eng		7956		287889		11295
+dhg-x-bible
+dhg		678		25224		3853
+kqp-x-bible
+kqp		7958		291143		4541
+ntp-x-bible
+ntp		7956		195973		15291
+bkq-x-bible
+bkq		7936		256322		18370
+nob-x-bible-1985
+nob		7818		194772		8436
+lif-x-bible-devanagari
+lif		7954		237977		13846
+myv-x-bible
+myv		7958		177222		18375
+tzo-x-bible-zinacantan
+tzo		7958		252542		12062
+pbc-x-bible
+pbc		7958		214399		9476
+wed-x-bible-wedau
+wed		673		16961		1714
+kum-x-bible
+kum		10390		219535		21636
+por-x-bible-versaointernacional
+por		7777		188484		12263
+rwo-x-bible-rawa
+rwo		7959		329525		9293
+jae-x-bible
+jae		7649		200526		6613
+hin-x-bible-latin
+hin		31157		879915		20676
+mcq-x-bible
+mcq		7958		183007		15913
+kaa-x-bible-cyrillic
+kaa		24018		517857		42187
+nnw-x-bible
+nnw		7957		346332		3818
+iry-x-bible
+iry		7949		217852		9130
+cwt-x-bible
+cwt		7941		202153		17162
+bhl-x-bible
+bhl		9762		474620		11123
+tha-x-bible-newworld
+tha		7942		252028		4205
+buk-x-bible
+buk		7949		281434		3639
+deu-x-bible-textbibel
+deu		31173		831128		33057
+mzk-x-bible
+mzk		7958		311766		3084
+sun-x-bible-informal
+sun		31139		731869		29435
+cjs-x-bible
+cjs		1557		36611		6017
+uri-x-bible
+uri		2511		114129		2178
+
+Number of Languages: 1396
+Number of Bibles: 1820
